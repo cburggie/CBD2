@@ -44,8 +44,6 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 2) Make a copy of your Diablo II shortcut. Right click your new Diablo II shortcut and add the `-direct` and `-txt` switches the `target` field. It should now look like `"C:\Program Files (x86)\Diablo II\Diablo II.exe" -direct -txt`.
 
-Note: that 
-
 ## Notes
 
 * If your Diablo II installation is not at `C:\Program Files (x86)\Diablo II` you will have to modify the file paths above accordingly.
