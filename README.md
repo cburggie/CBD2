@@ -9,6 +9,10 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 * The slow-down after experience level 70 is no longer as steep.
 
+### CubeMain.txt
+
+* Ladder only rune upgrade recipes available in single player.
+
 ### Runes.txt
 
 * Added Runeword "Heaven's Will" - A copy of "Infinity" with the recipe "IoHelTir"
