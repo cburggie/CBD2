@@ -725,9 +725,9 @@ Baal (H)			-6	983	983	983	1024		Act 5 (H) Equip B	4	Act 5 (H) Good	1	fed	1						
 Baalq			-6	993	993	1024	1024		Act 1 (N) Equip A	5	Act 1 (N) Good	1																				0
 Baalq (N)			-6	993	993	1024	1024		Act 1 (H) Equip A	5	Act 1 (H) Good	1																				0
 Baalq (H)			-6	993	993	1024	1024		Act 5 (H) Equip B	4	Act 5 (H) Good	1	fed	1																		0
-Blood Raven			-5	983	983	983	1024		cm1	1	cm2	1	cm3	1	rin	1	amu	1														0
-Blood Raven (N)			-5	983	983	983	1024		cm1	1	cm2	1	cm3	1	rin	1	amu	1														0
-Blood Raven (H)			-5	983	983	983	1024		cm1	1	cm2	1	cm3	1	rin	1	amu	1														0
+Blood Raven			-6	983	983	983	1024		cm1	1	cm2	1	cm3	1	rin	1	amu	1	jew	1												0
+Blood Raven (N)			-6	983	983	983	1024		cm1	1	cm2	1	cm3	1	rin	1	amu	1	jew	1												0
+Blood Raven (H)			-6	983	983	983	1024		cm1	1	cm2	1	cm3	1	rin	1	amu	1	jew	1												0
 Smith			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
 Smith (N)			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Smith (H)			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
