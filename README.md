@@ -26,6 +26,13 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * Set pieces from the same item type have equal rarity.
 * Many important rolls always get best rng (skills, resists, etc).
 
+### Shrines.txt
+
+* Made most shrines uncommon.
+* Mana Recharge, Stamina, and Monster shrines appear at twice the normal rate.
+* Experience shrines appear at 3 times the normal rate.
+* Gem and Skill shrines appear at 4 times the normal rate.
+
 ### TreasureClassEx.txt
 
 * Runes drop uniformly among possible rune drops.
