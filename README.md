@@ -12,6 +12,11 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 ### CubeMain.txt
 
 * Ladder only rune upgrade recipes available in single player.
+* Cow Portal recipe should work even after defeating the Cow King.\
+* Added recipe Ort + Jewel + any weapon or armor -> normal weapon or armor of
+  same type and item level.
+* Added recipe Ort + Shael + normal weapon or armor -> ethereal weapon or armor
+  of same type and item level.
 
 ### Runes.txt
 
