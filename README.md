@@ -12,11 +12,18 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 ### CubeMain.txt
 
 * Ladder only rune upgrade recipes available in single player.
-* Cow Portal recipe should work even after defeating the Cow King.\
+* Cow Portal recipe should work even after defeating the Cow King (Not actually
+  working)
 * Added recipe Ort + Jewel + any weapon or armor -> normal weapon or armor of
   same type and item level.
 * Added recipe Ort + Shael + normal weapon or armor -> ethereal weapon or armor
   of same type and item level.
+
+### Misc.txt
+
+* Health potions restore 30/60/120/240/480 hp.
+* Mana potions restore 20/40/80/160/320 hp.
+* Super health and mana potions are sold by vendors in late Nightmare.
 
 ### Runes.txt
 
