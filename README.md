@@ -24,6 +24,7 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * Health potions restore 30/60/120/240/480 hp.
 * Mana potions restore 20/40/80/160/320 hp.
 * Super health and mana potions are sold by vendors in late Nightmare.
+* New item types to prevent Hellfire Torch and Annihilus being dropped.
 
 ### Runes.txt
 
