@@ -42,6 +42,7 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 * Runes drop uniformly among possible rune drops.
 * Countess guarenteed 3 runes up to Sol/Ist/Zod.
+* Exceptional and Elite items drop more often.
 * Bosses always drop from some treasure classes.
 * Keys and essences always drop from their respective bosses.
 * Hell Izual always drops the Annihilus unique small charm.
