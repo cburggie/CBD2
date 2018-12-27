@@ -11,6 +11,11 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 ## Included Changes
 
+### CharStats.txt
+
+* characters start with the Horadric Cube
+* Assassins and Barbarians start with a second weapon instead of a buckler
+
 ### Experience.txt
 
 * the leveling slow-down after experience level 70 is no longer as steep
