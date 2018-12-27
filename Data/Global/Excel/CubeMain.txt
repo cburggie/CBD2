@@ -3,7 +3,7 @@ Staff of Kings + Viper amulet -> Horadric Staff	1			0	28				2	msf	vip						hst		
 Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1			0	28				4	qf1	qhr	qey	qbr				qf2																																																																																							0
 1 Wirt's leg + 1 town portal book -> portal to cow lvl	1			0	28				2	leg	tbk						Cow Portal																																																																																							0
 3 health potions + 3 mana potions + 1 standard gem -> full rejuvenate potion				0					7	hpot,qty=3	mpot,qty=3	gem2					rvl																																																																																							0
-3 health potions +  3 mana potions -> rejuvenate potion	1			0					6	hpot,qty=3	mpot,qty=3						rvs																																																																																							0
+3 health potions +  3 mana potions -> rejuvenate potion				0					6	hpot,qty=3	mpot,qty=3						rvs																																																																																							0
 3 small rejuvs -> one large	1			0					3	rvs,qty=3							rvl																																																																																							0
 1 perfect gem of each type + 1 amulet -> prismatic amulet	1			0					7	amu,mag	gpv	gpy	gpb	gpg	gpr	gpw	amu,mag,pre=331	50																																																																																						0
 1 ring + 1 perfect ruby + 1 exploding potions -> garnet ring	1			0					3	rin,mag	gpr	opm					rin,mag,pre=372	30																																																																																						0
@@ -139,14 +139,14 @@ Zod(r33) + 3 p.gems + set item -> new set item of same type	1			100					5	any,se
 Zod(r33) + 3 p.gems + unique item -> new unique item of same type	1			100					5	any,uni	r33	gem4,qty=3					usetype,uni																																																																																							0
 r09 + weapon -> repair + recharge	1			100					2	weap	r09						useitem,rep,rch,qty=255																																																																																							0
 r08 + armor -> repair + recharge	1			100					2	armo	r08						useitem,rep,rch,qty=255																																																																																							0
-r09 + weapon + chipped gem -> repair + recharge				100					3	weap,noe	r09	gem0					useitem,rep,rch,qty=255																																																																																							0
-r08 + armor + flawed gem -> repair + recharge				100					3	armo,noe	r08	gem1					useitem,rep,rch,qty=255																																																																																							0
+Keys -> Annihilus	1			100					3	pk1	pk2	pk3					Annihilus	110																																																																																						0
+Essences + Annihilus -> Hellfire Torch	1			100					4	Annihilus	tes	ceh	bet	fed			Hellfire Torch	110																																																																																						0
 r15 + tsc + any socketed item -> unsocket (destroy gems)	1			100					3	any,sock	r15	tsc					useitem,uns																																																																																							0
 Eld(r02) + jewel + any weapon -> normal unsocketed weapon	1			100					3	weap	r08	jew					usetype,nor,nos,noe			100																																																																																				0
 El(r01) + jewel + any armor -> normal unsocketed armor	1			100					3	armo	r08	jew					usetype,nor,nos,noe			100																																																																																				0
 Eth(r05) + normal weapon -> ethereal weapon	1			100					2	weap,nor,nos	r05						usetype,nor,nos,eth			100																																																																																				0
 Eth(r05) + normal armor -> ethereal armor	1			100					2	armo,nor,nos	r05						usetype,nor,nos,eth			100																																																																																				0
 3 chipped gems + 1 magic weapon -> socketed, magic weapon	1			0					4	weap,mag	gem0,qty=3						usetype,mag	25		50	sock			1	2																																																																															0
-Pandemonium key	1			100					3	pk1	pk2	pk3					Pandemonium Portal																																																																																							
-Pandemonium Finale key	1			100					3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							
+Pandemonium key				100					3	pk1	pk2	pk3					Pandemonium Portal																																																																																							
+Pandemonium Finale key				100					3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
