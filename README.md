@@ -93,6 +93,8 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 ## To Do
 
+* make new characters start with horadric cube
+* make new characters start with some gold (10,000? 100,000?)
 * allow replay of cow level somehow (give a boss a 'Cow Portal' drop?)
 * make a cool recipe with the keys since pandemonium event doesn't work
 * give all bosses (except maybe duriel) a reason to be farmed
