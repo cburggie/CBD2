@@ -132,21 +132,21 @@ r08 + r12 + perfect emerald + basic weapon -> exceptional weapon	1			100					4	w
 r07 + r13 + perfect diamond + basic armor -> exceptional armor	1			100					4	armo,bas	r07	r13	gpw				useitem,mod,exc																																																																																							0
 r17 + r21 + perfect emerald + exceptional weapon -> elite weapon	1			100					4	weap,exc	r17	r21	gpg				useitem,mod,eli																																																																																							0
 r18 + r20 + perfect diamond + exceptional armor -> elite armor	1			100					4	armo,exc	r18	r20	gpw				useitem,mod,eli																																																																																							0
-3 p.gems + weapon -> new weapon of same type (reroll rarity etc)	1			100					4	weap	gem4,qty=3						usetype																																																																																							0
-3 p.gems + armor -> new armor of same type (reroll rarity etc)	1			100					4	armo	gem4,qty=3						usetype																																																																																							0
-Zod(r33) + 3 p.gems + rare item ->  new rare item of same type	1			100					5	any,rar	r33	gem4,qty=3					usetype,rar																																																																																							0
+3 p.gems + reroll weapon -> reroll magic weapon				100					4	weap	gem4,qty=3						usetype																																																																																							0
+3 p.gems + reroll armor -> reroll magic armor				100					4	armo	gem4,qty=3						usetype																																																																																							0
+Zod(r33) + 3 p.gems + unique item ->  new unique item of same type	1			100					5	any,uni	r33	gem4,qty=3					usetype,uni																																																																																							0
 Zod(r33) + 3 p.gems + set item -> new set item of same type	1			100					5	any,set	r33	gem4,qty=3					usetype,set																																																																																							0
-Zod(r33) + 3 p.gems + unique item -> new unique item of same type	1			100					5	any,uni	r33	gem4,qty=3					usetype,uni																																																																																							0
+Zod(r33) + 3 p.gems + rare item -> new rare item of same type	1			100					5	any,rar	r33	gem4,qty=3					usetype,rar																																																																																							0
 r09 + weapon -> repair + recharge	1			100					2	weap	r09						useitem,rep,rch,qty=255																																																																																							0
 r08 + armor -> repair + recharge	1			100					2	armo	r08						useitem,rep,rch,qty=255																																																																																							0
+r15 + tsc + any socketed item -> unsocket (destroy gems)	1			100					3	any,sock	r15	tsc					useitem,uns																																																																																							0
+Eld(r02) + jewel + any weapon -> normal unsocketed weapon	1			100					3	weap	r08	jew					usetype,nor,nos,noe																																																																																							0
+El(r01) + jewel + any armor -> normal unsocketed armor	1			100					3	armo	r08	jew					usetype,nor,nos,noe																																																																																							0
+Eth(r05) + normal weapon -> ethereal weapon	1			100					2	weap,nor,nos	r05						usetype,eth,nor,nos																																																																																							0
+Eth(r05) + normal armor -> ethereal armor	1			100					2	armo,nor,nos	r05						usetype,eth,nor,nos																																																																																							0
+3 chipped gems + 1 magic weapon -> socketed, magic weapon	1			0					4	weap,mag	gem0,qty=3						usetype,mag	25		50	sock			2	2																																																																															0
 Keys -> Annihilus	1			100					3	pk1	pk2	pk3					Annihilus	110																																																																																						0
 Essences + Annihilus -> Hellfire Torch	1			100					4	Annihilus	tes	ceh	bet	fed			Hellfire Torch	110																																																																																						0
-r15 + tsc + any socketed item -> unsocket (destroy gems)	1			100					3	any,sock	r15	tsc					useitem,uns																																																																																							0
-Eld(r02) + jewel + any weapon -> normal unsocketed weapon	1			100					3	weap	r08	jew					usetype,nor,nos,noe			100																																																																																				0
-El(r01) + jewel + any armor -> normal unsocketed armor	1			100					3	armo	r08	jew					usetype,nor,nos,noe			100																																																																																				0
-Eth(r05) + normal weapon -> ethereal weapon	1			100					2	weap,nor,nos	r05						usetype,nor,nos,eth			100																																																																																				0
-Eth(r05) + normal armor -> ethereal armor	1			100					2	armo,nor,nos	r05						usetype,nor,nos,eth			100																																																																																				0
-3 chipped gems + 1 magic weapon -> socketed, magic weapon	1			0					4	weap,mag	gem0,qty=3						usetype,mag	25		50	sock			1	2																																																																															0
 Pandemonium key				100					3	pk1	pk2	pk3					Pandemonium Portal																																																																																							
 Pandemonium Finale key				100					3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
