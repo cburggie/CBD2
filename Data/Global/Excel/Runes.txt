@@ -67,7 +67,7 @@ Runeword50	Hatred																																															0
 Runeword40	Flickering Flame																																															0
 Runeword41	Fortitude	1		weap	tors								ElSolDolLo	r01	r12	r14	r28			ac%		200	200	dmg%		300	300	cast3		25	25	gethit-skill	Chilling Armor	20	15	dmg-to-mana		12	12	hp/lvl		12	12	res-all		30	30	0
 Runeword42	Fortune's Favor																																															0
-Runeword89	Nature's Kingdom	1		staf	mace								SolOrtShael	r12	r09	r13				cast2		40	40	charged	Oak Sage	25	4	mana%		15	15	allskills		3	3	regen		20	20	res-all		40	40	charged	Raven	60	14	0
+Runeword89	Nature's Kingdom			staf	mace								SolOrtShael	r12	r09	r13				cast2		40	40	charged	Oak Sage	25	4	mana%		15	15	allskills		3	3	regen		20	20	res-all		40	40	charged	Raven	60	14	0
 Runeword46	Glory																																															0
 Runeword38	Faith	1		miss									OhmJahLemEld	r27	r31	r20	r02			dmg%		280	280	att%		300	300	dmg-fire		120	120	res-all		15	15	aura	fanaticism	15	15	reanimate	1	10	10	allskills		2	2	0
 Runeword43	Amity																																															0
@@ -95,7 +95,7 @@ Runeword56	Dweomer																																															0
 Runeword31	Edge	1		miss									TirTalAmn	r03	r07	r11				dmg-demon		380	380	dmg-undead		280	280	swing2		35	35	noheal		1	1	aura	Thorns	15	15	all-stats		10	10	cheap		15	15	0
 Runeword34	Enlightenment	1		tors									PulRalSur	r21	r08	r12				hit-skill	Fire Ball	5	15	gethit-skill	Blaze	5	15	sor		2	2	oskill	Warmth	1	1													0
 Runeword35	Envy																																															0
-Runeword52	Heaven's Will	1		pole									IoHelTir	r16	r15	r03				dmg%		325	325	move3		35	35	vit/lvl	4			aura	Conviction	12	12	kill-skill	Chain Lightning	50	20	pierce-ltng		55	55	charged	Cyclone Armor	30	21	0
+Runeword52	Heaven's Will			pole									IoHelTir	r16	r15	r03				dmg%		325	325	move3		35	35	vit/lvl	4			aura	Conviction	12	12	kill-skill	Chain Lightning	50	20	pierce-ltng		55	55	charged	Cyclone Armor	30	21	0
 Runeword53	Holy Tears																																															0
 Runeword57	Humility																																															0
 Runeword58	Hunger																																															0
@@ -155,7 +155,7 @@ Runeword152	Valor																																															0
 Runeword153	Vengeance			weap										r06	r11	r01																																0
 Runeword155	Victory																																															0
 Runeword156	Voice			helm										r03	r06																																	0
-Runeword157	Void	1		tors									RalShaelOrt	r08	r13	r09				ac		775	775	heal-kill		14	14	move2		45	45	str/lvl	6			allskills		2	2	mag%/lvl	8			oskill	Teleport	1	1	0
+Runeword157	Void			tors									RalShaelOrt	r08	r13	r09				ac		775	775	heal-kill		14	14	move2		45	45	str/lvl	6			allskills		2	2	mag%/lvl	8			oskill	Teleport	1	1	0
 Runeword158	War																																															0
 Runeword159	Water																																															0
 Runeword161	Whisper																																															0
