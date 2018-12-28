@@ -9,11 +9,20 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 2) Make a copy of your Diablo II shortcut. Right click your new Diablo II shortcut and add the `-direct` and `-txt` switches the `target` field. It should now look like `"C:\Program Files (x86)\Diablo II\Diablo II.exe" -direct -txt`.
 
+## Mod Goals
+
+* improve drop rates of high-end runes and uniques so they are no longer
+  astronomically small
+* allow access to Annihilus and Hellfire Torch
+* improve ability to customize items with cube recipes
+
 ## Included Changes
 
 ### CharStats.txt
 
+* characters start with full portal and identify books
 * characters start with the Horadric Cube
+* characters start with a Tal and an Eth rune
 * Assassins and Barbarians start with a second weapon instead of a buckler
 
 ### Experience.txt
@@ -24,6 +33,8 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 * all ladder only recipes work in single player
 * removed many of the item crafting recipes
+* normal item socketing recipes never adds only one socket (except to items with
+  a max of one socket)
 * added several recipes (listed below)
 
 
@@ -32,8 +43,7 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * health potions restore 30/60/120/240/480 hp
 * mana potions restore 20/40/80/160/320 hp
 * super health and mana potions are sold by vendors in late Nightmare
-* small rejuvenation potions are sold by vendors in late Hell
-* new item types to prevent Hellfire Torch and Annihilus being dropped
+* small rejuvenation potions are sold by vendors in late Hell (maybe OP)
 
 ### Runes.txt
 
@@ -53,8 +63,21 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * Exceptional and Elite items drop more often
 * bosses always drop from some treasure classes
 * keys and essences always drop from their respective bosses
-* Hell Izual always drops the Annihilus unique small charm
-* Hell Haphestus always drops the Hellfire Torch unique large charm
+* gave most bosses a reason to be farmed
+* Blood Raven drops a bow
+* Griswold drops gold (probably wants a buff)
+* Countess always drops 3 runes (and better ones than usual) (and her key)
+* Smith drops weapons
+* Andariel drops rings (and her essence)
+* Radamant drops skulls
+* Summoner drops jewels (and his key)
+* Duriel drops extra weapons and armor (and its essence)
+* Mephisto drops amulets (and his essence)
+* Izual drops gems
+* Hephasto drops armor
+* Diablo drops extra weapons and armor
+* Nilathak drops skulls (and his key)
+* Baal drops charms (and his essence)
 
 ### UniqueItems.txt
 
@@ -84,30 +107,26 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 ### Reroll Recipes
 
-* 3 perfect gems + weapon or armor -> new weapon or armor of same base type
-  (rerolls stats, rarity, affixes, etc)
 * Zod + 3 perfect gems + rare, set, or unique item -> new item of same type and
-  rarity
+  rarity (maybe change to different runes or different gem counts)
+
+### ANnihilus and Hellfire Torch
+
+* 3 Keys -> Annihilus
+* 4 Essences + Annihilus -> Hellfire Torch
 
 ### Misc. Recipe Changes
+
 * small rejuv potion recipe does not need a gem.
-* large rejuv potion disabled
 * rare socket recipe can use any ring (no longer just SoJ)
 * repair recipes also recharge and work on ethereal items
 * old repair and recharge recipes removed
+* removed pandemonium quest recipes
 
 ## To Do
 
-* make new characters start with horadric cube
-* make new characters start with some gold (10,000? 100,000?)
 * allow replay of cow level somehow (give a boss a 'Cow Portal' drop?)
-* make a cool recipe with the keys since pandemonium event doesn't work
-* give all bosses (except maybe duriel) a reason to be farmed
-* give a boss a guaranteed ring drop (andariel?)
-* give a boss a guaranteed ammy drop (mephisto?)
-* give a boss a guaranteed p.gem drop (countess or hephasto?)
-* make all bosses drop 2 armors and a weapon
-* take anni and torch drops from izual and hephasto (give to diablo and baal)
-* make diablo drop an anni or his essence
-* make baal drop a charm and an torch, or essence
+* maybe change weapon to armor drop ratio from bosses
+* implement rarity upgrade recipe
+* nerf the change to the rare socket recipe to a unique ring (from any ring)
 
