@@ -5,15 +5,20 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 ## Installation
 
-1) Copy the `Data` folder and all sub-folders and files to `C:\Program Files (x86)\Diablo II`.
+1) Copy the `Data` folder and all sub-folders and files to your Diablo II install path (eg. `C:\Program Files (x86)\Diablo II`).
 
-2) Make a copy of your Diablo II shortcut. Right click your new Diablo II shortcut and add the `-direct` and `-txt` switches the `target` field. It should now look like `"C:\Program Files (x86)\Diablo II\Diablo II.exe" -direct -txt`.
+2) Make a copy of your Diablo II shortcut. In the shortcut properties add the
+  `-direct` and `-txt` command line switches to the target property of the
+  shortcut (eg. `"C:\Program Files (x86)\Diablo II\Diablo II.exe" -direct -txt`).
+
+3) This shortcut will now run the game with the mods active. Your old shortcut
+  will run the game without mods.
 
 ## Mod Goals
 
-* improve drop rates of high-end runes and uniques so they are no longer
-  astronomically small
+* improve drop rates of high-end gear and runes
 * allow access to Annihilus and Hellfire Torch
+* reduce the grind to level 99
 * improve ability to customize items with cube recipes
 
 ## Included Changes
@@ -33,9 +38,9 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 * all ladder only recipes work in single player
 * removed many of the item crafting recipes
-* normal item socketing recipes never adds only one socket (except to items with
-  a max of one socket)
-* added several recipes (listed below)
+* improved some old recipes
+* added several recipes
+* changes listed below
 
 
 ### Misc.txt
@@ -61,23 +66,21 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * runes drop uniformly among possible rune drops
 * The Countess is guarenteed 3 runes up to Sol/Ist/Zod
 * Exceptional and Elite items drop more often
-* bosses always drop from some treasure classes
-* keys and essences always drop from their respective bosses
-* gave most bosses a reason to be farmed
+* bosses have guaranteed drops and a reason to farm them
 * Blood Raven drops a bow
-* Griswold drops gold (probably wants a buff)
-* Countess always drops 3 runes (and better ones than usual) (and her key)
+* Griswold drops gold (change to rejuvs? he was a blacksmith tho)
+* Countess always drops 3 runesand her key
 * Smith drops weapons
-* Andariel drops rings (and her essence)
+* Andariel drops rings and her essence
 * Radamant drops skulls
-* Summoner drops jewels (and his key)
-* Duriel drops extra weapons and armor (and its essence)
-* Mephisto drops amulets (and his essence)
+* Summoner drops jewels and his key
+* Duriel drops extra weapons and armor and its essence
+* Mephisto drops amulets and his essence
 * Izual drops gems
 * Hephasto drops armor
 * Diablo drops extra weapons and armor
-* Nilathak drops skulls (and his key)
-* Baal drops charms (and his essence)
+* Nilathak drops skulls and his key
+* Baal drops charms and his essence
 
 ### UniqueItems.txt
 
@@ -108,25 +111,28 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 ### Reroll Recipes
 
 * Zod + 3 perfect gems + rare, set, or unique item -> new item of same type and
-  rarity (maybe change to different runes or different gem counts)
+  rarity (might need balancing)
 
-### ANnihilus and Hellfire Torch
+### Annihilus and Hellfire Torch
 
 * 3 Keys -> Annihilus
 * 4 Essences + Annihilus -> Hellfire Torch
 
 ### Misc. Recipe Changes
 
-* small rejuv potion recipe does not need a gem.
-* rare socket recipe can use any ring (no longer just SoJ)
-* repair recipes also recharge and work on ethereal items
-* old repair and recharge recipes removed
+* removed rejuvenation potion recipes other than 3 small -> 1 full
+* resistance ring recipes don't need potions
+* ring and amulet recycling recipes have improved ilvl (now 100% player level)
+* removed the weird crafting recipes (eg. savage polearm recipe)
+* all gem and rune upgrade recipes are now 2 same quality -> 1 of +1 quality
+* rare socket recipe can use any unique ring (instead of the Stone of Jordan)
+* normal item socketing recipes never roll 1
+* the repair recipes combined into one and work on ethereal items (needs test)
 * removed pandemonium quest recipes
 
 ## To Do
 
-* allow replay of cow level somehow (give a boss a 'Cow Portal' drop?)
+* allow replay of cow level somehow (will abandon if it requires hexediting)
 * maybe change weapon to armor drop ratio from bosses
-* implement rarity upgrade recipe
-* nerf the change to the rare socket recipe to a unique ring (from any ring)
+* implement rarity upgrade recipe (might be op af tho, maybe not)
 
