@@ -1,64 +1,63 @@
 #!/usr/bin/python
 
-# when diablo ii is parsing a .txt file as a spreadsheet it uses 0x0d0a to delimit lines.
-# my spreadsheet program (libreoffice calc) when saving as a .csv file will use 0x0a to delimit lines.
-# this tool takes a standalone 0x0a byte and precedes it with a 0x0d byte.
+# This is a really ugly work around script for fixing the delimiters my
+# spreadsheet program uses. Diablo II expects rows to be delimited by in the
+# Windows style newline (carriage return - linefeed 0x0D0A) but my spreadsheet
+# program uses the more usual (to me, at least) newline (linefeed 0x0A).
 
-
+# sometimes a file ends up with a mix of 0x0A and 0x0D0A delimiters.
+# my strategy will be to break the file up into its rows by parsing first by
+# the larger delimiter and then each chunk by the smaller delimter. I'll then
+# glue them back together with the correct one.
 
 import os
 import sys
 
 
 
-# strategy is to split the contents by the longer delimiter, then each
-# substring by the shorter one. We'll splice all those back together
-# with the correct one. This will catch cases of mixed line breaks.
-
-def fix_file_contents(contents):
-	
-	big_separator = "\x0d\x0a"
-	little_separator = "\x0a"
-	
-	big_segments = contents.split(big_separator)
+# change all normal delimiters to windows styled ones
+def windowsify_delimiters(contents):
+	windows_delimiter = "\x0d\x0a"
+	normal_delimiter = "\x0a"
 	accumulator = []
-	for bs in big_segments:
-		small_chunks = bs.split(little_separator)
-		for sc in small_chunks:
-			accumulator.append(sc)
-	return big_separator.join(accumulator)
+	chunks = contents.split(windows_delimiter)
+	for c in chunks:
+		rows = c.split(normal_delimiter)
+		for r in rows:
+			accumulator.append(r)
+	return windows_delimiter.join(accumulator)
 
 
 
-
-
+# get all the .txt filenames from our Data/Global/Excel directory
 def get_filenames():
-	
 	target_path = "./Data/Global/Excel"
 	target_file_extension = ".txt"
-	
 	filenames = os.listdir(target_path)
 	result = []
 	for fn in filenames:
-		if target_file_extension in fn:
+		if fn.endswith(target_file_extension):
 			result.append(target_path + '/' + fn)
 	return result
 
 
 
-
-
 def run():
-	
 	filenames = get_filenames()
 	for fn in filenames:
 		fd = open(fn, 'r')
 		contents = fd.read()
 		fd.close()
-		updated = fix_file_contents(contents)
+		updated = windowsify_delimiters(contents)
 		fd = open(fn, 'w')
 		fd.write(updated)
+		if len(contents) != len(updated):
+			msg = fn + ": " + str(abs(len(updated) - len(contents)))
+			msg += " changes"
+			print(msg)
 		fd.close()
+
+
 
 if __name__ == "__main__":
 	run()
