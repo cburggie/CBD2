@@ -111,7 +111,8 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 ### Reroll Recipes
 
 * Zod + 3 perfect gems + rare, set, or unique item -> new item of same type and
-  rarity (might need balancing)
+  rarity (ilvl = plvl, might need balancing)
+* Wirt's Leg + Tome of Identity -> Token of Absolution
 
 ### Annihilus and Hellfire Torch
 
