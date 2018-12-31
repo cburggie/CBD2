@@ -83,7 +83,7 @@ Zod(r33) + 3 p.gems + unique item ->  new unique item of same type (ilvl = plvl)
 Zod(r33) + 3 p.gems + set item -> new set item of same type	1			100					5	any,set	r33	gem4,qty=3					usetype,set		100																																																																																					0
 Zod(r33) + 3 p.gems + rare item -> new rare item of same type	1			100					5	any,rar	r33	gem4,qty=3					usetype,rar		100																																																																																					0
 *****Upkeep Recipes*****																																																																																																								0
-r09 + weapon -> repair + recharge	1			100					2	weap	r09						useitem,rep,rch,qty=255																																																																																							0
+r08 + weapon -> repair + recharge	1			100					2	weap	r08						useitem,rep,rch,qty=255																																																																																							0
 r08 + armor -> repair + recharge	1			100					2	armo	r08						useitem,rep,rch,qty=255																																																																																							0
 r15 + tsc + any socketed item -> unsocket (destroy gems)	1			100					3	any,sock	jew	jew	jew				useitem,uns																																																																																							0
 *****Runeword Prep Recipes*****																																																																																																								0
