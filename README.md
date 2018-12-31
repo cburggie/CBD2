@@ -88,48 +88,49 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * unique items from the same type have equal rarity
 * many important rolls always get best rng (skills, resists, etc)
 
-## New Recipes
+## Cube Recipes
 
-### Socketing Preparation Recipes
+### Runeword Preparation Recipes
 
-* Eld + jewel + any weapon -> normal, unsocketed weapon of same type
-* El + jewel + any armor -> normal, unsocketed armor of same type
-* Eth + normal, unsocketed weapon or armor -> ethereal item of same type
+* remove sockets, ethereal, rarity: 3 jewels (`ilvl = plvl`)
+* make plain item ethereal: Eth rune (`ilvl = plvl`)
+* add 2 sockets: 2 perfect gems
+* add 3 sockets: 1 flawless + 2 perfect gems
+* add 4 sockets: 3 perfect gems
+* add 5 sockets: 1 flawless + 3 perfect gems
+* add 6 sockets: 4 perfect gems
 
 ### Upgrade Recipes
 
 * gem and rune upgrade recipes only require 2 items of the lower grade
-* Ral + Sol + perfect emerald + basic weapon -> exceptional weapon (works for
-  items of any rarity)
-* Tal + Shael + perfect diamond + basic armor -> exceptional armor (works for
-  items of any rarity)
-* Lum + Pul + perfect emerald + exceptional weapon -> elite weapon (works for
-  items of any rarity)
-* Ko + Lem + perfect diamond + exceptional armor -> elite armor (works for
-  items of any rarity)
+* upgrade basic to exceptional: 3 perfect skulls + 1 magic jewel
+* upgrade exceptional to elite: 3 perfect skulls + 1 rare jewel
+* +1 socket on rare item: 3 perfect skulls + 1 unique ring
 
 ### Reroll Recipes
 
-* Zod + 3 perfect gems + rare, set, or unique item -> new item of same type and
-  rarity (ilvl = plvl, might need balancing)
-* Wirt's Leg + Tome of Identity -> Token of Absolution
+* reroll magic item: 3 perfect gems (`ilvl = ilvl`)
+* reroll rare item: 3 perfect skulls (`ilvl = 0.66*ilvl + 0.66*plvl`)
+* reroll for item of same rarity: 3 perfect gems + 1 Zod rune (`ilvl = ilvl`)
+* token of absolution: Wirt's Leg + Tome of Identify
+
+### Utility Recipes
+
+* repair and recharge item: 1 Ral rune
+* unsocket item: 1 Hel rune + 1 Scroll of Town Portal
 
 ### Annihilus and Hellfire Torch
 
-* 3 Keys -> Annihilus
-* 4 Essences + Annihilus -> Hellfire Torch
+* Annihilus: 1 of each Key
+* Hellfire Torch: 1 Annihilus + 1 of each Essence
 
-### Misc. Recipe Changes
+### Misc. Recipes
 
-* removed rejuvenation potion recipes other than 3 small -> 1 full
-* resistance ring recipes don't need potions
-* ring and amulet recycling recipes have improved ilvl (now 100% player level)
-* removed the weird crafting recipes (eg. savage polearm recipe)
-* all gem and rune upgrade recipes are now 2 same quality -> 1 of +1 quality
-* rare socket recipe can use any unique ring (instead of the Stone of Jordan)
-* normal item socketing recipes never roll 1
-* the repair recipes combined into one and work on ethereal items (needs test)
-* removed pandemonium quest recipes
+* Horadric Staff, Khalim's Will, and Cow Portal recipes unchanged
+* +resist jewelry recipes don't need potions
+* ring, amulet recycle recipes have `ilvl = plvl` (from `ilvl = 0.75*plvl`)
+* arrow and bolt recycle recipes unchanged
+
 
 ## To Do
 
