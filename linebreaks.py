@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # This is a really ugly work around script for fixing the delimiters my
-# spreadsheet program uses. Diablo II expects rows to be delimited by in the
+# spreadsheet program uses. Diablo II expects rows to be delimited by the
 # Windows style newline (carriage return - linefeed 0x0D0A) but my spreadsheet
 # program uses the more usual (to me, at least) newline (linefeed 0x0A).
 
