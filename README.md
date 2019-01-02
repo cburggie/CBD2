@@ -134,9 +134,9 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 ## To Do
 
+* somehow remove anni and torch from baal drops (remove him as charms boss?)
 * allow replay of cow level somehow (will abandon if it requires hexediting)
 * maybe change weapon to armor drop ratio from bosses
 * Add treasure classes for class items (amazon bows, necro wands/fetishes, etc)
 * have a boss (Griswold?) drop a bunch of them or something
-* implement rarity upgrade recipe (might be op af tho, maybe not)
 
