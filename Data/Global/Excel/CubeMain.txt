@@ -6,16 +6,16 @@ Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1	
 *****Resistance Jewelry Recipes*****																																																																																																								0
 1 perfect gem of each type + 1 amulet -> prismatic amulet	1			0					7	amu,mag	gpv	gpy	gpb	gpg	gpr	gpw	amu,mag,pre=331	50																																																																																						0
 1 ring + 1 perfect ruby -> garnet ring	1			0					2	rin,mag	gpr						rin,mag,pre=372	30																																																																																						0
-1 ring + 1 perfect sapphire? cobalt ring	1			0					2	rin,mag	gpb						rin,mag,pre=353	30																																																																																						0
+1 ring + 1 perfect sapphire -> cobalt ring	1			0					2	rin,mag	gpb						rin,mag,pre=353	30																																																																																						0
 1 ring + 1 perfect topaz -> coral ring	1			0					2	rin,mag	gpy						rin,mag,pre=392	30																																																																																						0
 1 ring + 1 emerald -> jade ring	1			0					2	rin,mag	gpg						rin,mag,pre=412	30																																																																																						0
 *****Recycling Recipes*****																																																																																																								0
-3 rings -> amulet	1			0					3	rin,mag,qty=3							amu		100																																																																																					0
-3 amulets -> ring	1			0					3	amu,mag,qty=3							rin		100																																																																																					0
+3 rings -> 1 ring	1			0					3	rin,mag,qty=3							amu		100																																																																																					0
+3 amulets -> 1 amulet	1			0					3	amu,mag,qty=3							rin		100																																																																																					0
 2 arrows -> bolts	1			0					2	aqv,qty=2							cqv																																																																																							0
 2 bolts -> arrows	1			0					2	cqv,qty=2							aqv																																																																																							0
 *****Commodity Upgrade Recipes*****																																																																																																								0
-3 small rejuvs -> one large	1			0					3	rvs,qty=3							rvl																																																																																							0
+3 small rejuvs -> 1 large	1			0					3	rvs,qty=3							rvl																																																																																							0
 2 chipped amethysts -> flawed amethyst	1			0					2	gcv,qty=2							gfv																																																																																							0
 2 flawed amethysts -> standard amethyst	1			0					2	gfv,qty=2							gsv																																																																																							0
 2 standard amethysts -> flawless amethyst	1			0					2	gsv,qty=2							gzv																																																																																							0
@@ -85,7 +85,7 @@ Zod(r33) + 3 p.gems + rare item -> new rare item of same type	1			100					5	any,
 *****Upkeep Recipes*****																																																																																																								0
 r08 + weapon -> repair + recharge	1			100					2	weap	r08						useitem,rep,rch,qty=255																																																																																							0
 r08 + armor -> repair + recharge	1			100					2	armo	r08						useitem,rep,rch,qty=255																																																																																							0
-r15 + tsc + any socketed item -> unsocket (destroy gems)	1			100					3	any,sock	jew,qty=3						useitem,uns																																																																																							0
+r15 + tsc + any socketed item -> unsocket (destroy gems)	1			100					3	any,sock	r15	tsc					useitem,uns																																																																																							0
 *****Runeword Prep Recipes*****																																																																																																								0
 any weapon + 3 jewel -> normal, unsocketed, nonethereal weapon	1			100					4	weap	jew,qty=3						usetype,nor,nos,noe		100																																																																																					0
 any armor + 3 jewel -> normal, unsocketed, nonethereal armor	1			100					4	armo	jew,qty=3						usetype,nor,nos,noe		100																																																																																					0
@@ -112,7 +112,7 @@ Normal helm + 2 pgem -> 2 sockets	1			100					3	helm,nor,nos							useitem				so
 3 pskull + 1 rare jewel + exceptional -> elite	1			100					5	armo,exc	skz,qty=3	jew,rare					useitem,mod,eli																																																																																							0
 *****Token, Anni, and Torch Recipes*****																																																																																																								0
 Keys -> Annihilus	1			100					3	pk1	pk2	pk3					Annihilus	110																																																																																						0
-Essences + Annihilus -> Hellfire Torch	1			100					4	Annihilus	tes	ceh	bet	fed			Hellfire Torch	110																																																																																						0
+Essences + Annihilus -> Hellfire Torch	1			100					5	Annihilus	tes	ceh	bet	fed			Hellfire Torch	110																																																																																						0
 1 Wirt's leg + 1 identity book -> token of absolution	1			0					2	leg	ibk						toa																																																																																							0
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
 *****Abandoned or work-in-progress recipes*****																																																																																																								0
