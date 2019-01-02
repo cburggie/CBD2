@@ -773,8 +773,8 @@ Durielq - Base			-5	993	993	1024	1024		Weapon 3A	2	Armor 3A	3																			
 Durielq (N) - Base			-5	993	993	1024	1024		Weapon 3AN	2	Armor 3AN	3																				0
 Durielq (H) - Base			-6	993	993	1024	1024		Weapon 3AH	2	Armor 3AH	3	tes	1																		0
 Radament			-4	900	900	900	1024		Weapon 3B	1	Armor 3B	2	skc	1																		0
-Radament (N)			-4	900	900	900	1024		Weapon 3BN	1	Armor 3BN	2	sku	1																		0
-Radament (H)			-4	900	900	900	1024		Weapon 3BH	1	Armor 3BH	2	skz	1																		0
+Radament (N)			-4	900	900	900	1024		Weapon 3BN	1	Armor 3BN	2	skf	1																		0
+Radament (H)			-4	900	900	900	1024		Weapon 3BH	1	Armor 3BH	2	sku	1																		0
 Flying Scimitar			1					100	Act 2 Good	3	scm	57																				0
 Flying Scimitar (N)			1					100	Act 2 (N) Good	3	scm	25	9sm	32																		0
 Flying Scimitar (H)			1					100	Act 2 (H) Good	3	scm	7	9sm	18	7sm	32																0
@@ -808,9 +808,9 @@ Trapped Soul (H)			1					100	gld	19	Act 4 (H) Equip A	8	Act 4 (H) Junk	33							
 Haphesto			-4	800	800	900	1024		Armor 5A	4																						0
 Haphesto (N)			-4	800	800	900	1024		Armor 5AN	4																						0
 Haphesto (H)			-4	800	800	900	1024		Armor 5AH	4																						0
-Nihlathak			-6	900	900	900	1024		Weapon 5B	1	Armor 5B	2	skc	1																		0
+Nihlathak			-6	900	900	900	1024		Weapon 5B	1	Armor 5B	2	skf	1																		0
 Nihlathak (N)			-6	900	900	900	1024		Weapon 5BN	1	Armor 5BN	2	sku	1																		0
-Nihlathak (H)			-6	900	900	900	1024		Weapon 5BH	1	Armor 5BH	2	skz	1	pk3	1																0
+Nihlathak (H)			-6	900	900	900	1024		Weapon 5BH	1	Armor 5BH	2	skl	1	pk3	1																0
 Baal			-5	983	983	983	1024		Weapon 1AN	1	Armor 1AN	2	Boss Charms	2																		0
 Baal (N)			-5	983	983	983	1024		Weapon 1AH	1	Armor 1AH	2	Boss Charms	2																		0
 Baal (H)			-6	983	983	983	1024		Weapon 5BH	1	Armor 5BH	2	Boss Charms	2	fed	1																0
