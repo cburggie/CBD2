@@ -100,6 +100,10 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * add 5 sockets: 1 flawless + 3 perfect gems
 * add 6 sockets: 4 perfect gems
 
+### Staff of Teleportation Recipe
+
+* magic staff of teleportation: magic staff + tome of town portal
+
 ### Upgrade Recipes
 
 * gem and rune upgrade recipes only require 2 items of the lower grade
