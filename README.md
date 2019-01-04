@@ -102,7 +102,7 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 ### Staff of Teleportation Recipe
 
-* magic staff of teleportation: magic staff + tome of town portal
+* magic staff of teleportation: magic staff + magic ring + tome of town portal
 
 ### Upgrade Recipes
 
