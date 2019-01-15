@@ -60,6 +60,30 @@ Boss Charms			1						cm1	1	cm2	1	cm3	1																		0
 Boss Gems			1						gzv	1	gly	1	glb	1	glg	1	glr	1	glw	1												0
 Boss Gems N			1						gzv	1	gly	1	glb	1	glg	1	glr	1	glw	1												0
 Boss Gems H			1						gpv	1	gpy	1	gpb	1	gpg	1	gpr	1	gpw	1												0
+Amazon items			1						am1	1	am2	1	am3	1	am4	1	am5	1														
+Amazon items N			1						am6	1	am7	1	am8	1	am9	1	ama	1	Amazon Items	5												
+Amazon Items H			1						amb	1	amc	1	amd	1	ame	1	amf	1	Amazon Items N	10												
+Sorceress Items			1						ob1	1	ob2	1	ob3	1	ob4	1	ob5	1														
+Sorceress Items N			1						ob6	1	ob7	1	ob8	1	ob9	1	oba	1	Sorceress Items	5												
+Sorceress Items H			1						obb	1	obc	1	obd	1	obe	1	obf	1	Sorceress Items N	10												
+Necromancer Items			1						ne1	1	ne2	1	ne3	1	ne4	1	ne5	1														
+Necromancer Items N			1						ne6	1	ne7	1	ne8	1	ne9	1	nea	1	Necromancer Items	5												
+Necromancer Items H			1						neb	1	neg	1	ned	1	nee	1	nef	1	Necromancer Items N	10												
+Paladin Items			1						pa1	1	pa2	1	pa3	1	pa4	1	pa5	1														
+Paladin Items N			1						pa6	1	pa7	1	pa8	1	pa9	1	paa	1	Paladin Items	5												
+Paladin Items H			1						pab	1	pac	1	pad	1	pae	1	paf	1	Paladin Items N	10												
+Barbarian Items			1						ba1	1	ba2	1	ba3	1	ba4	1	ba5	1														
+Barbarian Items N			1						ba6	1	ba7	1	ba8	1	ba9	1	baa	1	Barbarian Items	5												
+Barbarian Items H			1						bab	1	bac	1	bad	1	bae	1	baf	1	Barbarian Items N	10												
+Druid Items			1						dr1	1	dr2	1	dr3	1	dr4	1	dr5	1														
+Druid Items N			1						dr6	1	dr7	1	dr8	1	dr9	1	dra	1	Druid Items	5												
+Druid Items H			1						drb	1	drc	1	drd	1	dre	1	drf	1	Druid Items N	10												
+Assassin Items			1						ktr	1	wrb	1	axf	1	ces	1	clw	1	btl	1	skr	1										
+Assassin Items N			1						9ar	1	9wb	1	9xf	1	9cs	1	9lw	1	9tw	1	9qr	1	Assassin Items	7								
+Assassin Items H			1						7ar	1	7wb	1	7xf	1	7cs	1	7lw	1	7tw	1	7qr	1	Assassin Items N	14								
+Class Items			1						Amazon Items	1	Sorceress Items	1	Necromancer Items	1	Paladin Items	1	Barbarian Items	1	Druid Items	1	Assassin Items	1										
+Class Items N			1						Amazon Items N	1	Sorceress Items N	1	Necromancer Items N	1	Paladin Items N	1	Barbarian Items N	1	Druid Items N	1	Assassin Items N	1										
+Class Items H			1						Amazon Items H	1	Sorceress Items H	1	Necromancer Items H	1	Paladin Items H	1	Barbarian Items H	1	Druid Items H	1	Assassin Items H	1										
 Armor 1A	1	0	1						armo3	1																						0
 Armor 1B	1	5	1						armo3	1	armo6	1																				0
 Armor 1C	1	9	1						armo3	1	armo6	1	armo9	1	armo12	1	Armor 1B	2											4	6	0.3333	0
@@ -760,45 +784,45 @@ Swarm 1 (N)	17	40	1					125	Potion 6	12	Misc 2	6	Act 2 (N) Good	1	Act 2 (N) Magi
 Swarm 2 (N)	17	46	1					125	Potion 6	12	Misc 2	6	Act 3 (N) Good	1	Act 3 (N) Magic A	6																0
 Swarm 1 (H)	17	68	1					125	Potion 6	12	Misc 2	6	Act 2 (H) Good	1	Act 2 (H) Magic A	6																0
 Swarm 2 (H)	17	74	1					125	Potion 6	12	Misc 2	6	Act 3 (H) Good	1	Act 3 (H) Magic A	6																0
-Andariel			-5	983	983	983	1024		Weapon 2A	1	Armor 2A	2	rin	2																		0
-Andariel (N)			-5	983	983	983	1024		Weapon 2AN	1	Armor 2AN	2	rin	2																		0
-Andariel (H)			-6	983	983	983	1024		Weapon 2AH	1	Armor 2AH	2	rin	2	tes	1																0
-Andarielq			-5	995	995	1024	1024		Weapon 2A	1	Armor 2A	2	rin	2																		0
-Andarielq (N)			-5	995	995	1024	1024		Weapon 2AN	1	Armor 2AN	2	rin	2																		0
-Andarielq (H)			-6	995	995	1024	1024		Weapon 2AH	1	Armor 2AH	2	rin	2	tes	1																0
-Duriel - Base			-5	983	983	983	1024		Weapon 3A	2	Armor 3A	3																				0
-Duriel (N) - Base			-5	983	983	983	1024		Weapon 3AN	2	Armor 3AN	3																				0
-Duriel (H) - Base			-6	983	983	983	1024		Weapon 3AH	2	Armor 3AH	3	tes	1																		0
-Durielq - Base			-5	993	993	1024	1024		Weapon 3A	2	Armor 3A	3																				0
-Durielq (N) - Base			-5	993	993	1024	1024		Weapon 3AN	2	Armor 3AN	3																				0
-Durielq (H) - Base			-6	993	993	1024	1024		Weapon 3AH	2	Armor 3AH	3	tes	1																		0
-Radament			-4	900	900	900	1024		Weapon 3B	1	Armor 3B	2	skc	1																		0
-Radament (N)			-4	900	900	900	1024		Weapon 3BN	1	Armor 3BN	2	skf	1																		0
-Radament (H)			-4	900	900	900	1024		Weapon 3BH	1	Armor 3BH	2	sku	1																		0
+Andariel			-5	983	983	983	1024		Weapon 2A	2	Armor 2A	1	rin	2																		0
+Andariel (N)			-5	983	983	983	1024		Weapon 2AN	2	Armor 2AN	1	rin	2																		0
+Andariel (H)			-6	983	983	983	1024		Weapon 2AH	2	Armor 2AH	1	rin	2	Essence A	1																0
+Andarielq			-5	995	995	1024	1024		Weapon 2A	2	Armor 2A	1	rin	2																		0
+Andarielq (N)			-5	995	995	1024	1024		Weapon 2AN	2	Armor 2AN	1	rin	2																		0
+Andarielq (H)			-6	995	995	1024	1024		Weapon 2AH	2	Armor 2AH	1	rin	2	tes	1																0
+Duriel - Base			-5	983	983	983	1024		Weapon 3A	4	Armor 3A	2																				0
+Duriel (N) - Base			-5	983	983	983	1024		Weapon 3AN	4	Armor 3AN	2																				0
+Duriel (H) - Base			-6	983	983	983	1024		Weapon 3AH	4	Armor 3AH	2																				0
+Durielq - Base			-5	993	993	1024	1024		Weapon 3A	4	Armor 3A	2																				0
+Durielq (N) - Base			-5	993	993	1024	1024		Weapon 3AN	4	Armor 3AN	2																				0
+Durielq (H) - Base			-6	993	993	1024	1024		Weapon 3AH	4	Armor 3AH	2																				0
+Radament			-4	900	900	900	1024		Weapon 3B	2	Armor 3B	1	skc	1																		0
+Radament (N)			-4	900	900	900	1024		Weapon 3BN	2	Armor 3BN	1	skf	1																		0
+Radament (H)			-4	900	900	900	1024		Weapon 3BH	2	Armor 3BH	1	sku	1																		0
 Flying Scimitar			1					100	Act 2 Good	3	scm	57																				0
 Flying Scimitar (N)			1					100	Act 2 (N) Good	3	scm	25	9sm	32																		0
 Flying Scimitar (H)			1					100	Act 2 (H) Good	3	scm	7	9sm	18	7sm	32																0
-Mephisto			-5	983	983	983	1024		Weapon 4A	1	Armor 4A	2	amu	2																		0
-Mephisto (N)			-5	983	983	983	1024		Weapon 4AN	1	Armor 4AN	2	amu	2																		0
-Mephisto (H)			-6	983	983	983	1024		Weapon 4AH	1	Armor 4AH	2	amu	2	ceh	1																0
-Mephistoq			-5	993	993	1024	1024		Weapon 4A	1	Armor 4A	2	amu	2																		0
-Mephistoq (N)			-5	993	993	1024	1024		Weapon 4AN	1	Armor 4AN	2	amu	2																		0
-Mephistoq (H)			-6	993	993	1024	1024		Weapon 4AH	1	Armor 4AH	2	amu	2	ceh	1																0
-Diablo			-5	983	983	983	1024		Weapon 5A	2	Armor 5A	3																				0
-Diablo (N)			-5	983	983	983	1024		Weapon 5AN	2	Armor 5AN	3																				0
-Diablo (H)			-6	983	983	983	1024		Weapon 5AH	2	Armor 5AH	3	bet	1																		0
-Diabloq			-5	993	993	1024	1024		Weapon 5C	2	Armor 5C	3																				0
-Diabloq (N)			-5	993	993	1024	1024		Weapon 5CN	2	Armor 5CN	3																				0
-Diabloq (H)			-6	993	993	1024	1024		Weapon 5CH	2	Armor 5CH	3	bet	1																		0
-Summoner			-6	900	900	972	1024		Weapon 2C	1	Armor 2C	2	jew	2																		0
-Summoner (N)			-6	900	900	972	1024		Weapon 2CN	1	Armor 2CN	2	jew	2																		0
-Summoner (H)			-6	900	900	972	1024		Weapon 2CH	1	Armor 2CH	2	jew	2	pk2	1																0
+Mephisto			-5	983	983	983	1024		Weapon 4A	2	Armor 4A	1	amu	2																		0
+Mephisto (N)			-5	983	983	983	1024		Weapon 4AN	2	Armor 4AN	1	amu	2																		0
+Mephisto (H)			-6	983	983	983	1024		Weapon 4AH	2	Armor 4AH	1	amu	2	Essence B	1																0
+Mephistoq			-5	993	993	1024	1024		Weapon 4A	2	Armor 4A	1	amu	2																		0
+Mephistoq (N)			-5	993	993	1024	1024		Weapon 4AN	2	Armor 4AN	1	amu	2																		0
+Mephistoq (H)			-6	993	993	1024	1024		Weapon 4AH	2	Armor 4AH	1	amu	2	ceh	1																0
+Diablo			-5	983	983	983	1024		Weapon 5A	3	Armor 5A	2																				0
+Diablo (N)			-5	983	983	983	1024		Weapon 5AN	3	Armor 5AN	2																				0
+Diablo (H)			-6	983	983	983	1024		Weapon 5AH	3	Armor 5AH	2	Essence C	1																		0
+Diabloq			-5	993	993	1024	1024		Weapon 5C	3	Armor 5C	2																				0
+Diabloq (N)			-5	993	993	1024	1024		Weapon 5CN	3	Armor 5CN	2																				0
+Diabloq (H)			-6	993	993	1024	1024		Weapon 5CH	3	Armor 5CH	2	bet	1																		0
+Summoner			-6	900	900	972	1024		Weapon 2C	2	Armor 2C	1	jew	2																		0
+Summoner (N)			-6	900	900	972	1024		Weapon 2CN	2	Armor 2CN	1	jew	2																		0
+Summoner (H)			-6	900	900	972	1024		Weapon 2CH	2	Armor 2CH	1	jew	2	Pandemonium Key B	1																0
 Council			-2	650	800	800	1024		Act 4 Equip A	1	Act 4 Good	1																				0
 Council (N)			-2	650	800	800	1024		Act 4 (N) Equip A	1	Act 4 (N) Good	1																				0
 Council (H)			-2	650	800	800	1024		Act 4 (H) Equip A	1	Act 4 (H) Good	1																				0
-Griswold			-6						gld,mul=1280	5	Act 1 Melee B	1																				0
-Griswold (N)			-6						gld,mul=2560	5	Act 1 (N) Melee B	1																				0
-Griswold (H)			-6						gld,mul=3840	5	Act 1 (H) Melee B	1																				0
+Griswold			-3	800	800	900	1024		Weapon 1B	2	Armor 1B	1																				0
+Griswold (N)			-3	800	800	900	1024		Weapon 1BN	2	Armor 1BN	1																				0
+Griswold (H)			-3	800	800	900	1024		Weapon 1BH	2	Armor 1BH	1																				0
 Cow			1					100	gld	19	Act 5 Equip A	19	Act 5 Junk	19	Act 5 Good	3																0
 Cow (N)			1					100	gld	19	Act 5 (N) Equip A	19	Act 5 (N) Junk	19	Act 5 (N) Good	3																0
 Cow (H)			1					100	gld	19	Act 5 (H) Equip B	19	Act 5 (H) Junk	19	Act 5 (H) Good	3																0
@@ -808,24 +832,24 @@ Trapped Soul (H)			1					100	gld	19	Act 4 (H) Equip A	8	Act 4 (H) Junk	33							
 Haphesto			-4	800	800	900	1024		Armor 5A	4																						0
 Haphesto (N)			-4	800	800	900	1024		Armor 5AN	4																						0
 Haphesto (H)			-4	800	800	900	1024		Armor 5AH	4																						0
-Nihlathak			-6	900	900	900	1024		Weapon 5B	1	Armor 5B	2	skf	1																		0
-Nihlathak (N)			-6	900	900	900	1024		Weapon 5BN	1	Armor 5BN	2	sku	1																		0
-Nihlathak (H)			-6	900	900	900	1024		Weapon 5BH	1	Armor 5BH	2	skl	1	pk3	1																0
-Baal			-5	983	983	983	1024		Weapon 1AN	1	Armor 1AN	2	Boss Charms	2																		0
-Baal (N)			-5	983	983	983	1024		Weapon 1AH	1	Armor 1AH	2	Boss Charms	2																		0
-Baal (H)			-6	983	983	983	1024		Weapon 5BH	1	Armor 5BH	2	Boss Charms	2	fed	1																0
-Baalq			-5	993	993	1024	1024		Weapon 1AN	1	Armor 1AN	2	Boss Charms	2																		0
-Baalq (N)			-5	993	993	1024	1024		Weapon 1AH	1	Armor 1AH	2	Boss Charms	2																		0
-Baalq (H)			-6	993	993	1024	1024		Weapon 5BH	1	Armor 5BH	2	Boss Charms	2	fed	1																0
-Blood Raven			-3	983	983	983	1024		Act 5 Bow B	1	Armor 1B	2																				0
-Blood Raven (N)			-3	983	983	983	1024		Act 5 (N) Bow B	1	Armor 1BN	2																				0
-Blood Raven (H)			-3	983	983	983	1024		Act 5 (H) Bow B	1	Armor 1BH	2																				0
-Smith			-5					0	Weapon 1B	5																						0
-Smith (N)			-5					0	Weapon 1BN	5																						0
-Smith (H)			-5					0	Weapon 1BH	5																						0
-Izual			-5	800	800	972	1024		Weapon 4B	1	Armor 4B	2	Boss Gems	1																		0
-Izual (N)			-5	800	800	972	1024		Weapon 4BN	1	Armor 4BN	2	Boss Gems N	2																		0
-Izual (H)			-5	800	800	972	1024		Weapon 4BH	1	Armor 4BH	2	Boss Gems H	2																		0
+Nihlathak			-6	900	900	900	1024		Weapon 5B	2	Armor 5B	1	skf	1																		0
+Nihlathak (N)			-6	900	900	900	1024		Weapon 5BN	2	Armor 5BN	1	sku	1																		0
+Nihlathak (H)			-6	900	900	900	1024		Weapon 5BH	2	Armor 5BH	1	skl	1	Pandemonium Key C	1																0
+Baal			-5	983	983	983	1024		Weapon 1AN	2	Armor 1AN	1	Class Items	2																		0
+Baal (N)			-5	983	983	983	1024		Weapon 1AH	2	Armor 1AH	1	Class Items N	2																		0
+Baal (H)			-6	983	983	983	1024		Weapon 5BH	2	Armor 5BH	1	Class Items H	2	Essence D	1																0
+Baalq			-5	993	993	1024	1024		Weapon 1AN	2	Armor 1AN	1	Class Items	2																		0
+Baalq (N)			-5	993	993	1024	1024		Weapon 1AH	2	Armor 1AH	1	Class Items N	2																		0
+Baalq (H)			-6	993	993	1024	1024		Weapon 5BH	2	Armor 5BH	1	Class Items H	2	fed	1																0
+Blood Raven			-3	983	983	983	1024		Act 5 Bow B	2	Armor 1B	1																				0
+Blood Raven (N)			-3	983	983	983	1024		Act 5 (N) Bow B	2	Armor 1BN	1																				0
+Blood Raven (H)			-3	983	983	983	1024		Act 5 (H) Bow B	2	Armor 1BH	1																				0
+Smith			-5	800	800	900	1024	0	Weapon 1B	5																						0
+Smith (N)			-5	800	800	900	1024	0	Weapon 1BN	5																						0
+Smith (H)			-5	800	800	900	1024	0	Weapon 1BH	5																						0
+Izual			-5	800	800	972	1024		Weapon 4B	2	Armor 4B	1	Boss Gems	1																		0
+Izual (N)			-5	800	800	972	1024		Weapon 4BN	2	Armor 4BN	1	Boss Gems N	2																		0
+Izual (H)			-5	800	800	972	1024		Weapon 4BH	2	Armor 4BH	1	Boss Gems H	2																		0
 Act 1 Super A	18	0	-4	800	800	972	1024	0	Act 1 Uitem A	2	Act 1 Cpot A	2																				0
 Act 1 Super B	18	5	-4	800	800	972	1024	0	Act 1 Uitem B	2	Act 1 Cpot B	2																				0
 Act 1 Super C	18	9	-4	800	800	972	1024	0	Act 1 Uitem C	2	Act 1 Cpot C	2																				0
@@ -936,11 +960,15 @@ Countess Item (N)			5					19	gld,mul=1536	11	Act 1 (N) Equip C	19	Act 2 (N) Junk
 Countess Item (H)			5					19	gld,mul=2048	11	Act 1 (H) Equip C	19	Act 2 (H) Junk	15	Act 2 (H) Good	3	pk1	1														0
 Countess			-3	883	883	883	1024	0	Runes 6	3																						0
 Countess (N)			-3	883	883	983	1024	0	Runes 12	3																						0
-Countess (H)			-4	883	883	983	1024	0	Runes 17	3	pk1	1																				0
+Countess (H)			-4	883	883	983	1024	0	Runes 17	3	Pandemonium Key A	1																				0
 Uber Andariel			1	1024				0	dhn	1																						0
 Uber Duriel			1	1024				0	bey	1																						0
 Uber Izual			1	1024				0	mbr	1																						0
-Pandemonium Key A			1	1024				0	pk1	1																						0
-Pandemonium Key B			1	1024				0	pk2	1																						0
-Pandemonium Key C			1	1024				0	pk3	1																						0
+Essence A			1					3	tes	1																						
+Essence B			1					3	ceh	1																						
+Essence C			1					3	bet	1																						
+Essence D			1					3	fed	1																						
+Pandemonium Key A			1	1024				3	pk1	1																						0
+Pandemonium Key B			1	1024				3	pk2	1																						0
+Pandemonium Key C			1	1024				3	pk3	1																						0
 																																0
