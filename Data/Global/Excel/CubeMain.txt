@@ -3,13 +3,40 @@ description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input
 Staff of Kings + Viper amulet -> Horadric Staff	1			0	28				2	msf	vip						hst																																																																																							0
 Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1			0	28				4	qf1	qhr	qey	qbr				qf2																																																																																							0
 1 Wirt's leg + 1 town portal book -> portal to cow lvl	1			0	28				2	leg	tbk						Cow Portal																																																																																							0
-*****Crafting Recipes Jewelry Recipes*****																																																																																																								0
+*****Resistance Jewelry Recipes*****																																																																																																								0
 1 perfect gem of each type + 1 amulet -> prismatic amulet	1			0					7	amu,mag	gpv	gpy	gpb	gpg	gpr	gpw	amu,mag,pre=331	50																																																																																						0
 1 ring + 1 perfect ruby -> garnet ring	1			0					2	rin,mag	gpr						rin,mag,pre=372	30																																																																																						0
 1 ring + 1 perfect sapphire -> cobalt ring	1			0					2	rin,mag	gpb						rin,mag,pre=353	30																																																																																						0
 1 ring + 1 perfect topaz -> coral ring	1			0					2	rin,mag	gpy						rin,mag,pre=392	30																																																																																						0
 1 ring + 1 emerald -> jade ring	1			0					2	rin,mag	gpg						rin,mag,pre=412	30																																																																																						0
+1 small charm + 2 perfect ruby -> ruby small charm	1			100					3	cm1	gpr,qty=2						cm1,mag,pre=369	40																																																																																						0
+1 small charm + 2 perfect sapphire -> sapphire small charm	1			100					3	cm1	gpb,qty=2						cm1,mag,pre=349	40																																																																																						0
+1 small charm + 2 perfect topaz -> amber small charm	1			100					3	cm1	gpy,qty=2						cm1,mag,pre=388	40																																																																																						0
+1 small charm + 2 perfecct emerald -> emerald small charm	1			100					3	cm1	gpg,gty=2						cm1,mag,pre=408	40																																																																																						0
+*****Staff of Teleportation*****																																																																																																								0
 magic staff + magic ring + tome of town portal -> magic staff of teleportation	1			100					3	staf,mag	rin,mag	tbk					usetype,mag,suf=532	1																																																																																						0
+*****Skill Tab Charms -- Grand Charm + Unique Ring + 1-3 Flawless Gems*****																																																																																																								0
+amazon tab 1 charm	1			100				ama	3	cm3,mag	rin,uni	gem3					cm3,mag,pre=430		100																																																																																					0
+amazon tab 2 charm	1			100				ama	4	cm3,mag	rin,uni	gem3,qty=2					cm3,mag,pre=431		100																																																																																					0
+amazon tab 3 charm	1			100				ama	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pre=432		100																																																																																					0
+sorceress tab 1 charm	1			100				sor	3	cm3,mag	rin,uni	gem3					cm3,mag,pre=442		100																																																																																					0
+sorceress tab 2 charm	1			100				sor	4	cm3,mag	rin,uni	gem3,qty=2					cm3,mag,pre=443		100																																																																																					0
+sorceress tab 3 charm	1			100				sor	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pre=444		100																																																																																					0
+necromancer tab 1 charm	1			100				nec	3	cm3,mag	rin,uni	gem3					cm3,mag,pre=454		100																																																																																					0
+necromancer tab 2 charm	1			100				nec	4	cm3,mag	rin,uni	gem3,qty=2					cm3,mag,pre=455		100																																																																																					0
+necromancer tab 3 charm	1			100				nec	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pre=456		100																																																																																					0
+paladin tab 1 charm	1			100				pal	3	cm3,mag	rin,uni	gem3					cm3,mag,pre=466		100																																																																																					0
+paladin tab 2 charm	1			100				pal	4	cm3,mag	rin,uni	gem3,qty=2					cm3,mag,pre=467		100																																																																																					0
+paladin tab 3 charm	1			100				pal	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pre=468		100																																																																																					0
+barbarian tab 1 charm	1			100				bar	3	cm3,mag	rin,uni	gem3					cm3,mag,pre=478		100																																																																																					0
+barbarian tab 2 charm	1			100				bar	4	cm3,mag	rin,uni	gem3,qty=2					cm3,mag,pre=479		100																																																																																					0
+barbarian tab 3 charm	1			100				bar	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pre=480		100																																																																																					0
+druid tab 1 charm	1			100				dru	3	cm3,mag	rin,uni	gem3					cm3,mag,pre=490		100																																																																																					0
+druid tab 2 charm	1			100				dru	4	cm3,mag	rin,uni	gem3,qty=2					cm3,mag,pre=491		100																																																																																					0
+druid tab 3 charm	1			100				dru	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pre=492		100																																																																																					0
+assassin tab 1 charm	1			100				ass	3	cm3,mag	rin,uni	gem3					cm3,mag,pre=504		100																																																																																					0
+assassin tab 2 charm	1			100				ass	4	cm3,mag	rin,uni	gem3,qty=2					cm3,mag,pre=505		100																																																																																					0
+assassin tab 3 charm	1			100				ass	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pre=506		100																																																																																					0
 *****Recycling Recipes*****																																																																																																								0
 3 rings -> 1 ring	1			0					3	rin,mag,qty=3							amu		100																																																																																					0
 3 amulets -> 1 amulet	1			0					3	amu,mag,qty=3							rin		100																																																																																					0
@@ -112,8 +139,8 @@ Normal helm + 2 pgem -> 2 sockets	1			100					3	helm,nor,nos							useitem				so
 3 pskull + 1 rare jewel + exceptional -> elite	1			100					5	weap,exc	skz,qty=3	jew,rare					useitem,mod,eli																																																																																							0
 3 pskull + 1 rare jewel + exceptional -> elite	1			100					5	armo,exc	skz,qty=3	jew,rare					useitem,mod,eli																																																																																							0
 *****Token, Anni, and Torch Recipes*****																																																																																																								0
-Keys -> Annihilus	1			100					3	pk1	pk2	pk3					Annihilus	110																																																																																						0
-Essences + Annihilus -> Hellfire Torch	1			100					5	Annihilus	tes	ceh	bet	fed			Hellfire Torch	110																																																																																						0
+Keys -> Annihilus	1			100					3	pk1	pk2	pk3					Annihilus	99																																																																																						0
+Essences + Annihilus -> Hellfire Torch	1			100					5	Annihilus	tes	ceh	bet	fed			Hellfire Torch	99																																																																																						0
 1 Wirt's leg + 1 identity book -> token of absolution	1			0					2	leg	ibk						toa																																																																																							0
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
 *****Abandoned or work-in-progress recipes*****																																																																																																								0
