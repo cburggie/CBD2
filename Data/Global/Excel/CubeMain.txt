@@ -34,9 +34,9 @@ barbarian tab 3 charm	1			100				bar	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pr
 druid tab 1 charm	1			100				dru	3	cm3,mag	rin,uni	gem3					cm3,mag,pre=490		100																																																																																					0
 druid tab 2 charm	1			100				dru	4	cm3,mag	rin,uni	gem3,qty=2					cm3,mag,pre=491		100																																																																																					0
 druid tab 3 charm	1			100				dru	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pre=492		100																																																																																					0
-assassin tab 1 charm	1			100				ass	3	cm3,mag	rin,uni	gem3					cm3,mag,pre=504		100																																																																																					0
-assassin tab 2 charm	1			100				ass	4	cm3,mag	rin,uni	gem3,qty=2					cm3,mag,pre=505		100																																																																																					0
-assassin tab 3 charm	1			100				ass	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pre=506		100																																																																																					0
+assassin tab 1 charm	1			100				ass	3	cm3,mag	rin,uni	gem3					cm3,mag,pre=502		100																																																																																					0
+assassin tab 2 charm	1			100				ass	4	cm3,mag	rin,uni	gem3,qty=2					cm3,mag,pre=503		100																																																																																					0
+assassin tab 3 charm	1			100				ass	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pre=504		100																																																																																					0
 *****Recycling Recipes*****																																																																																																								0
 3 rings -> 1 ring	1			0					3	rin,mag,qty=3							amu		100																																																																																					0
 3 amulets -> 1 amulet	1			0					3	amu,mag,qty=3							rin		100																																																																																					0
@@ -105,11 +105,10 @@ assassin tab 3 charm	1			100				ass	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pre
 2 rune 31 -> rune 32	1			100					2	r31,qty=2							r32																																																																																							0
 2 rune 32 -> rune 33	1			100					2	r32,qty=2							r33																																																																																							0
 *****Reroll Recipes*****																																																																																																								0
-3 perfect gems + 1 magic item -> magic item	1			100					4	any,mag	gem4,qty=3						usetype,mag			100																																																																																				0
+3 perfect gems + 1 magic item -> magic item	1			100					4	any,mag	gem4,qty=3						usetype,mag		100																																																																																					0
 3 perfect skull + 1 rare item -> 1 high level rare item	1			0					4	any,rar	skz,qty=3						usetype,rar		66	66																																																																																				0
 Zod(r33) + 3 p.gems + unique item ->  new unique item of same type (ilvl = plvl)	1			100					5	any,uni	r33	gem4,qty=3					usetype,uni		100																																																																																					0
 Zod(r33) + 3 p.gems + set item -> new set item of same type	1			100					5	any,set	r33	gem4,qty=3					usetype,set		100																																																																																					0
-Zod(r33) + 3 p.gems + rare item -> new rare item of same type	1			100					5	any,rar	r33	gem4,qty=3					usetype,rar		100																																																																																					0
 *****Utility Recipes*****																																																																																																								0
 r08 + weapon -> repair + recharge	1			100					2	weap	r08						useitem,rep,rch,qty=255																																																																																							0
 r08 + armor -> repair + recharge	1			100					2	armo	r08						useitem,rep,rch,qty=255																																																																																							0
@@ -141,7 +140,7 @@ Normal helm + 2 pgem -> 2 sockets	1			100					3	helm,nor,nos							useitem				so
 *****Token, Anni, and Torch Recipes*****																																																																																																								0
 Keys -> Annihilus	1			100					3	pk1	pk2	pk3					Annihilus	99																																																																																						0
 Essences + Annihilus -> Hellfire Torch	1			100					5	Annihilus	tes	ceh	bet	fed			Hellfire Torch	99																																																																																						0
-1 Wirt's leg + 1 identity book -> token of absolution	1			0					2	leg	ibk						toa																																																																																							0
+1 Wirt's leg + 1 identity book -> token of absolution	1			100					2	leg	ibk						toa																																																																																							0
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
 *****Abandoned or work-in-progress recipes*****																																																																																																								0
 1 perfect skulls + 1 rare item -> 1 low level rare item				0					2	any,rar	skz						usetype,rar		40	40																																																																																				0
