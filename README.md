@@ -42,13 +42,16 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * added several recipes
 * changes listed below
 
+### MagicPrefixes.txt and MagicSuffixes.txt
+
+* rare affixes are more common
 
 ### Misc.txt
 
 * health potions restore 30/60/120/240/480 hp
 * mana potions restore 20/40/80/160/320 hp
 * super health and mana potions are sold by vendors in late Nightmare
-* small rejuvenation potions are sold by vendors in late Hell (maybe OP)
+* rejuvenation potions are sold by vendors in late Hell
 
 ### Runes.txt
 
@@ -66,21 +69,20 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * runes drop uniformly among possible rune drops
 * The Countess is guarenteed 3 runes up to Sol/Ist/Zod
 * Exceptional and Elite items drop more often
-* bosses have guaranteed drops and a reason to farm them
 * Blood Raven drops a bow
-* Griswold drops gold (change to rejuvs? he was a blacksmith tho)
-* Countess always drops 3 runesand her key
+* Countess always drops 3 runes
 * Smith drops weapons
-* Andariel drops rings and her essence
+* Andariel drops rings
 * Radamant drops skulls
-* Summoner drops jewels and his key
-* Duriel drops extra weapons and armor and its essence
-* Mephisto drops amulets and his essence
+* Summoner drops jewels
+* Duriel drops extra weapons and armor
+* Mephisto drops amulets
 * Izual drops gems
 * Hephasto drops armor
 * Diablo drops extra weapons and armor
 * Nilathak drops skulls and his key
-* Baal drops charms and his essence
+* Baal drops class items
+* keys and essences have 25% drop rate
 
 ### UniqueItems.txt
 
@@ -104,6 +106,11 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 * magic staff of teleportation: magic staff + magic ring + tome of town portal
 
+### Charm Recipes
+
+* resistance small charm: small charm + 2 perfect ruby/sapphire/topaz/emerald
+* +1 skilltab grand charm: grand charm + unique ring + 1/2/3 flawless gems
+
 ### Upgrade Recipes
 
 * gem and rune upgrade recipes only require 2 items of the lower grade
@@ -115,7 +122,7 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 * reroll magic item: 3 perfect gems (`ilvl = ilvl`)
 * reroll rare item: 3 perfect skulls (`ilvl = 0.66*ilvl + 0.66*plvl`)
-* reroll for item of same rarity: 3 perfect gems + 1 Zod rune (`ilvl = ilvl`)
+* reroll for item of same rarity: 3 perfect gems + 1 Zod rune (`ilvl = plvl`)
 * token of absolution: Wirt's Leg + Tome of Identify
 
 ### Utility Recipes
@@ -130,7 +137,6 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 ### Misc. Recipes
 
-* Horadric Staff, Khalim's Will, and Cow Portal recipes unchanged
 * +resist jewelry recipes don't need potions
 * ring, amulet recycle recipes have `ilvl = plvl` (from `ilvl = 0.75*plvl`)
 * arrow and bolt recycle recipes unchanged
