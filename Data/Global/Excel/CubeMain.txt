@@ -38,8 +38,8 @@ assassin tab 1 charm	1			100				ass	3	cm3,mag	rin,uni	gem3					cm3,mag,pre=502		
 assassin tab 2 charm	1			100				ass	4	cm3,mag	rin,uni	gem3,qty=2					cm3,mag,pre=503		100																																																																																					0
 assassin tab 3 charm	1			100				ass	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pre=504		100																																																																																					0
 *****Recycling Recipes*****																																																																																																								0
-3 rings -> 1 ring	1			0					3	rin,mag,qty=3							amu		100																																																																																					0
-3 amulets -> 1 amulet	1			0					3	amu,mag,qty=3							rin		100																																																																																					0
+2 rings -> 1 ring	1			0					2	rin,mag,qty=2							rin		100																																																																																					0
+2 amulets -> 1 amulet	1			0					2	amu,mag,qty=2							amu		100																																																																																					0
 2 arrows -> bolts	1			0					2	aqv,qty=2							cqv																																																																																							0
 2 bolts -> arrows	1			0					2	cqv,qty=2							aqv																																																																																							0
 *****Commodity Upgrade Recipes*****																																																																																																								0
@@ -107,8 +107,10 @@ assassin tab 3 charm	1			100				ass	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pre
 *****Reroll Recipes*****																																																																																																								0
 3 perfect gems + 1 magic item -> magic item	1			100					4	any,mag	gem4,qty=3						usetype,mag		100																																																																																					0
 3 perfect skull + 1 rare item -> 1 high level rare item	1			0					4	any,rar	skz,qty=3						usetype,rar		66	66																																																																																				0
-Zod(r33) + 3 p.gems + unique item ->  new unique item of same type (ilvl = plvl)	1			100					5	any,uni	r33	gem4,qty=3					usetype,uni		100																																																																																					0
-Zod(r33) + 3 p.gems + set item -> new set item of same type	1			100					5	any,set	r33	gem4,qty=3					usetype,set		100																																																																																					0
+weapon + Hellfire Torch + Annihilus + SoJ -> unique weapon	1			100					4	weap	Hellfire Torch	Annihilus	The Stone of Jordan				usetype,uni		100																																																																																					0
+armor + Hellfire Torch + Annihilus + SoJ -> unique armor	1			100					4	armo	Hellfire Torch	Annihilus	The Stone of Jordan				usetype,uni		100																																																																																					0
+weapon + Hellfire Torch + Annihilus + Zod rune -> set weapon	1			100					4	weap	Hellfire Torch	Annihilus	r33				usetype,set		100																																																																																					0
+armor + Hellfire Torch + Annihilus + Zod rune -> set armor	1			100					4	armo	Hellfire Torch	Annihilus	r33				usetype,set		100																																																																																					0
 *****Utility Recipes*****																																																																																																								0
 r08 + weapon -> repair + recharge	1			100					2	weap	r08						useitem,rep,rch,qty=255																																																																																							0
 r08 + armor -> repair + recharge	1			100					2	armo	r08						useitem,rep,rch,qty=255																																																																																							0
