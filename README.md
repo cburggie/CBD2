@@ -30,10 +30,6 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * characters start with a Tal and an Eth rune
 * Assassins and Barbarians start with a second weapon instead of a buckler
 
-### Experience.txt
-
-* the leveling slow-down after experience level 70 is no longer as steep
-
 ### CubeMain.txt
 
 * all ladder only recipes work in single player
@@ -41,6 +37,16 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * improved some old recipes
 * added several recipes
 * changes listed below
+
+### DifficultyLevels.txt
+
+* improved gambling chances of rare/set/unique to 30%/10%/10%
+* gambling in Nightmare difficulty can yield Exceptional gear (`p=1%+1%*(ilvl-qlvl)`)
+* gambling in Hell difficulty can yield Elite gear (`p=1%+1%*(ilvl-qlvl)`)
+
+### Experience.txt
+
+* the leveling slow-down after experience level 70 is no longer as steep
 
 ### MagicPrefixes.txt and MagicSuffixes.txt
 
@@ -70,18 +76,18 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * The Countess is guarenteed 3 runes up to Sol/Ist/Zod
 * Exceptional and Elite items drop more often
 * Blood Raven drops a bow
-* Countess always drops 3 runes
+* Griswold drops class items
 * Smith drops weapons
-* Andariel drops rings
+* Andariel drops in nightmare and hell
 * Radamant drops skulls
-* Summoner drops jewels
+* Summoner drops in nightmare and hell
 * Duriel drops extra weapons and armor
-* Mephisto drops amulets
+* Mephisto drops amulets in nightmare and hell
 * Izual drops gems
 * Hephasto drops armor
 * Diablo drops extra weapons and armor
 * Nilathak drops skulls and his key
-* Baal drops class items
+* Baal drops extra weapons and armor
 * keys and essences have 25% drop rate
 
 ### UniqueItems.txt
@@ -116,13 +122,14 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * gem and rune upgrade recipes only require 2 items of the lower grade
 * upgrade basic to exceptional: 3 perfect skulls + 1 magic jewel
 * upgrade exceptional to elite: 3 perfect skulls + 1 rare jewel
+* upgrade an item to unique rarity: Hellfire Torch + Annihilus + The Stone of Jordan (`ilvl=plvl`)
+* upgrade an item to set rarity: Hellfire Torch + Annihilus + Zod rune (`ilvl=plvl`)
 * +1 socket on rare item: 3 perfect skulls + 1 unique ring
 
 ### Reroll Recipes
 
 * reroll magic item: 3 perfect gems (`ilvl = ilvl`)
 * reroll rare item: 3 perfect skulls (`ilvl = 0.66*ilvl + 0.66*plvl`)
-* reroll for item of same rarity: 3 perfect gems + 1 Zod rune (`ilvl = plvl`)
 * token of absolution: Wirt's Leg + Tome of Identify
 
 ### Utility Recipes
@@ -137,16 +144,14 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 ### Misc. Recipes
 
-* +resist jewelry recipes don't need potions
+* +resist jewelry recipes don't need potions and `ilvl=plvl`
 * ring, amulet recycle recipes have `ilvl = plvl` (from `ilvl = 0.75*plvl`)
-* arrow and bolt recycle recipes unchanged
 
 
 ## To Do
 
-* somehow remove anni and torch from baal drops (remove him as charms boss?)
+* add class specific crafted item recipes for amulets and circlets (good +skills)
 * allow replay of cow level somehow (will abandon if it requires hexediting)
-* maybe change weapon to armor drop ratio from bosses
-* Add treasure classes for class items (amazon bows, necro wands/fetishes, etc)
-* have a boss (Griswold?) drop a bunch of them or something
+
+
 
