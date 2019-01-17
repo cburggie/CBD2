@@ -60,6 +60,13 @@ Boss Charms			1						cm1	1	cm2	1	cm3	1																		0
 Boss Gems			1						gzv	1	gly	1	glb	1	glg	1	glr	1	glw	1												0
 Boss Gems N			1						gzv	1	gly	1	glb	1	glg	1	glr	1	glw	1												0
 Boss Gems H			1						gpv	1	gpy	1	gpb	1	gpg	1	gpr	1	gpw	1												0
+Key A			1					3	pk1	1																						0
+Key B			1					3	pk2	1																						0
+Key C			1					3	pk3	1																						0
+Essence A			1					3	tes	1																						0
+Essence B			1					3	ceh	1																						0
+Essence C			1					3	bet	1																						0
+Essence D			1					3	fed	1																						0
 Amazon items			1						am1	1	am2	1	am3	1	am4	1	am5	1														
 Amazon items N			1						am6	1	am7	1	am8	1	am9	1	ama	1	Amazon Items	5												
 Amazon Items H			1						amb	1	amc	1	amd	1	ame	1	amf	1	Amazon Items N	10												
@@ -816,7 +823,7 @@ Diabloq (N)			-5	993	993	1024	1024		Weapon 5CN	3	Armor 5CN	2																				
 Diabloq (H)			-6	993	993	1024	1024		Weapon 5CH	3	Armor 5CH	2	bet	1																		0
 Summoner			-6	900	900	972	1024		Weapon 2C	2	Armor 2C	1	jew	2																		0
 Summoner (N)			-6	900	900	972	1024		Weapon 2CN	2	Armor 2CN	1	jew	2																		0
-Summoner (H)			-6	900	900	972	1024		Weapon 2CH	2	Armor 2CH	1	jew	2	Pandemonium Key B	1																0
+Summoner (H)			-6	900	900	972	1024		Weapon 2CH	2	Armor 2CH	1	jew	2	Key B	1																0
 Council			-2	650	800	800	1024		Act 4 Equip A	1	Act 4 Good	1																				0
 Council (N)			-2	650	800	800	1024		Act 4 (N) Equip A	1	Act 4 (N) Good	1																				0
 Council (H)			-2	650	800	800	1024		Act 4 (H) Equip A	1	Act 4 (H) Good	1																				0
@@ -834,7 +841,7 @@ Haphesto (N)			-4	800	800	900	1024		Armor 5AN	4																						0
 Haphesto (H)			-4	800	800	900	1024		Armor 5AH	4																						0
 Nihlathak			-6	900	900	900	1024		Weapon 5B	2	Armor 5B	1	skf	1																		0
 Nihlathak (N)			-6	900	900	900	1024		Weapon 5BN	2	Armor 5BN	1	sku	1																		0
-Nihlathak (H)			-6	900	900	900	1024		Weapon 5BH	2	Armor 5BH	1	skl	1	Pandemonium Key C	1																0
+Nihlathak (H)			-6	900	900	900	1024		Weapon 5BH	2	Armor 5BH	1	skl	1	Key C	1																0
 Baal			-5	983	983	983	1024		Weapon 1AN	2	Armor 1AN	1	Class Items	2																		0
 Baal (N)			-5	983	983	983	1024		Weapon 1AH	2	Armor 1AH	1	Class Items N	2																		0
 Baal (H)			-6	983	983	983	1024		Weapon 5BH	2	Armor 5BH	1	Class Items H	2	Essence D	1																0
@@ -957,18 +964,14 @@ Countess Rune (N)			3					5	Runes 8	15																						0
 Countess Rune (H)			3					5	Runes 12	15																						0
 Countess Item			5					19	gld,mul=1280	11	Act 1 Equip C	19	Act 2 Junk	15	Act 2 Good	3																0
 Countess Item (N)			5					19	gld,mul=1536	11	Act 1 (N) Equip C	19	Act 2 (N) Junk	15	Act 2 (N) Good	3																0
-Countess Item (H)			5					19	gld,mul=2048	11	Act 1 (H) Equip C	19	Act 2 (H) Junk	15	Act 2 (H) Good	3	pk1	1														0
+Countess Item (H)			1					3	pk1	1																						0
 Countess			-3	883	883	883	1024	0	Runes 6	3																						0
 Countess (N)			-3	883	883	983	1024	0	Runes 12	3																						0
-Countess (H)			-4	883	883	983	1024	0	Runes 17	3	Pandemonium Key A	1																				0
+Countess (H)			-4	883	883	983	1024	0	Runes 17	3	Key A	1																				0
 Uber Andariel			1	1024				0	dhn	1																						0
 Uber Duriel			1	1024				0	bey	1																						0
 Uber Izual			1	1024				0	mbr	1																						0
-Essence A			1					3	tes	1																						
-Essence B			1					3	ceh	1																						
-Essence C			1					3	bet	1																						
-Essence D			1					3	fed	1																						
-Pandemonium Key A			1	1024				3	pk1	1																						0
-Pandemonium Key B			1	1024				3	pk2	1																						0
-Pandemonium Key C			1	1024				3	pk3	1																						0
+Pandemonium Key A			1	1024				0	pk1	1																						0
+Pandemonium Key B			1	1024				0	pk2	1																						0
+Pandemonium Key C			1	1024				0	pk3	1																						0
 																																0
