@@ -73,15 +73,15 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 ### TreasureClassEx.txt
 
 * runes drop uniformly among possible rune drops
-* The Countess is guarenteed 3 runes up to Sol/Ist/Zod
+* The Countess is guaranteed 3 runes up to Sol/Ist/Zod
 * Exceptional and Elite items drop more often
 * Blood Raven drops a bow
 * Griswold drops class items
 * Smith drops weapons
 * Andariel drops in nightmare and hell
 * Radamant drops skulls
-* Summoner drops in nightmare and hell
-* Duriel drops extra weapons and armor
+* Summoner drops charms in nightmare and hell
+* Duriel drops jewels
 * Mephisto drops amulets in nightmare and hell
 * Izual drops gems
 * Hephasto drops armor
@@ -122,6 +122,7 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * gem and rune upgrade recipes only require 2 items of the lower grade
 * upgrade basic to exceptional: 3 perfect skulls + 1 magic jewel
 * upgrade exceptional to elite: 3 perfect skulls + 1 rare jewel
+* reroll a unique and make it ethereal: 3 perfect skulls + Eth rune (`ilvl=ilvl`)
 * upgrade an item to unique rarity: Hellfire Torch + Annihilus + The Stone of Jordan (`ilvl=plvl`)
 * upgrade an item to set rarity: Hellfire Torch + Annihilus + Zod rune (`ilvl=plvl`)
 * +1 socket on rare item: 3 perfect skulls + 1 unique ring
