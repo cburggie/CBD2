@@ -139,13 +139,15 @@ Normal helm + 2 pgem -> 2 sockets	1			100					3	helm,nor,nos							useitem				so
 3 pskull + 1 magic jewel + basic -> exceptional	1			100					5	Armo,bas	skz,qty=3	jew,mag					useitem,mod,exc																																																																																							0
 3 pskull + 1 rare jewel + exceptional -> elite	1			100					5	weap,exc	skz,qty=3	jew,rare					useitem,mod,eli																																																																																							0
 3 pskull + 1 rare jewel + exceptional -> elite	1			100					5	armo,exc	skz,qty=3	jew,rare					useitem,mod,eli																																																																																							0
+3 pskul + Eth rune + unique weapon -> ethereal unique weapon	1			100					5	weap,uni	skz,qty=3	r05					usetype,eth,uni			100																																																																																				0
+3 pskul + Eth rune + unique armor -> ethereal unique armor	1			100					5	armo,uni	skz,qty=3	r05					usetype,eth,uni			100																																																																																				0
 *****Token, Anni, and Torch Recipes*****																																																																																																								0
 Keys -> Annihilus	1			100					3	pk1	pk2	pk3					Annihilus	99																																																																																						0
 Essences + Annihilus -> Hellfire Torch	1			100					5	Annihilus	tes	ceh	bet	fed			Hellfire Torch	99																																																																																						0
 1 Wirt's leg + 1 identity book -> token of absolution	1			100					2	leg	ibk						toa																																																																																							0
-Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
+Token of Absolution				100					4	tes	ceh	bet	fed				toa																																																																																							0
 *****Abandoned or work-in-progress recipes*****																																																																																																								0
-1 perfect skulls + 1 rare item -> 1 low level rare item				0					2	any,rar	skz						usetype,rar		40	40																																																																																				0
+circlet + 3 hpot -> crafted circlet				100					4	circ	hpot,qty=3						usetype,crf			100	ama			2	2	skilltab		0	3	3																																																																										0
 3 chipped gems + 1 magic weapon -> socketed, magic weapon				0					4	weap,mag	gem0,qty=3						usetype,mag	25		50	sock			2	2																																																																															0
 3 standard gems + 1 socketed weapon ->  magic, socketable weapon				0					4	weap,sock	gem2,qty=3						usetype,mag	30		60	sock			1	2																																																																															0
 3 flawless gems + 1 magic weapon -> socketed, magic weapon				0					4	weap,mag	gem3,qty=3						usetype,mag	30		60	sock			1	2																																																																															0
