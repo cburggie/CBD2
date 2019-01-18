@@ -61,7 +61,7 @@ Boss Gems			1						gzv	1	gly	1	glb	1	glg	1	glr	1	glw	1												0
 Boss Gems N			1						gzv	1	gly	1	glb	1	glg	1	glr	1	glw	1												0
 Boss Gems H			1						gpv	1	gpy	1	gpb	1	gpg	1	gpr	1	gpw	1												0
 Key A			1						Runes 17	3	pk1	1																				0
-Key B			1						jew	3	pk2	1																				0
+Key B			1						Boss Charms	3	pk2	1																				0
 Key C			1						skl	3	pk3	1																				0
 Essence A			1						rin	3	tes	1																				0
 Essence B			1						amu	3	ceh	1																				0
@@ -796,13 +796,13 @@ Andariel (N)			-4	983	983	983	1024		Weapon 2AN	2	Armor 2AN	1	rin	1														
 Andariel (H)			-5	983	983	983	1024		Weapon 2AH	2	Armor 2AH	1	rin	1	Essence A	1																0
 Andarielq			-6	995	995	1024	1024		Weapon 2A	4	Armor 2A	2																				0
 Andarielq (N)			-4	995	995	1024	1024		Weapon 2AN	2	Armor 2AN	1	rin	1																		0
-Andarielq (H)			-5	995	995	1024	1024		Weapon 2AH	2	Armor 2AH	1	rin	1	tes	1																0
-Duriel - Base			-6	983	983	983	1024		Weapon 3A	4	Armor 3A	2																				0
-Duriel (N) - Base			-6	983	983	983	1024		Weapon 3AN	4	Armor 3AN	2																				0
-Duriel (H) - Base			-6	983	983	983	1024		Weapon 3AH	4	Armor 3AH	2																				0
+Andarielq (H)			-5	995	995	1024	1024		Weapon 2AH	2	Armor 2AH	1	rin	1	Essence A	1																0
+Duriel - Base			-6	983	983	983	1024		Weapon 3A	2	Armor 3A	1	jew	1																		0
+Duriel (N) - Base			-6	983	983	983	1024		Weapon 3AN	2	Armor 3AN	1	jew	1																		0
+Duriel (H) - Base			-6	983	983	983	1024		Weapon 3AH	2	Armor 3AH	1	jew	2																		0
 Durielq - Base			-6	993	993	1024	1024		Weapon 3A	4	Armor 3A	2																				0
-Durielq (N) - Base			-6	993	993	1024	1024		Weapon 3AN	4	Armor 3AN	2																				0
-Durielq (H) - Base			-6	993	993	1024	1024		Weapon 3AH	4	Armor 3AH	2																				0
+Durielq (N) - Base			-6	993	993	1024	1024		Weapon 3AN	2	Armor 3AN	1	jew	1																		0
+Durielq (H) - Base			-6	993	993	1024	1024		Weapon 3AH	2	Armor 3AH	1	jew	2																		0
 Radament			-4	900	900	900	1024		Weapon 3B	2	Armor 3B	1	skc	1																		0
 Radament (N)			-4	900	900	900	1024		Weapon 3BN	2	Armor 3BN	1	skf	1																		0
 Radament (H)			-4	900	900	900	1024		Weapon 3BH	2	Armor 3BH	1	sku	1																		0
@@ -814,16 +814,16 @@ Mephisto (N)			-4	983	983	983	1024		Weapon 4AN	2	Armor 4AN	1	amu	1														
 Mephisto (H)			-5	983	983	983	1024		Weapon 4AH	2	Armor 4AH	1	amu	1	Essence B	1																0
 Mephistoq			-6	993	993	1024	1024		Weapon 4A	4	Armor 4A	2																				0
 Mephistoq (N)			-4	993	993	1024	1024		Weapon 4AN	2	Armor 4AN	1	amu	1																		0
-Mephistoq (H)			-5	993	993	1024	1024		Weapon 4AH	2	Armor 4AH	1	amu	1	ceh	1																0
+Mephistoq (H)			-5	993	993	1024	1024		Weapon 4AH	2	Armor 4AH	1	amu	1	Essence B	1																0
 Diablo			-6	983	983	983	1024		Weapon 5A	4	Armor 5A	2																				0
 Diablo (N)			-6	983	983	983	1024		Weapon 5AN	4	Armor 5AN	2																				0
 Diablo (H)			-6	983	983	983	1024		Weapon 5AH	3	Armor 5AH	2	Essence C	1																		0
 Diabloq			-6	993	993	1024	1024		Weapon 5C	4	Armor 5C	2																				0
 Diabloq (N)			-6	993	993	1024	1024		Weapon 5CN	4	Armor 5CN	2																				0
-Diabloq (H)			-6	993	993	1024	1024		Weapon 5CH	3	Armor 5CH	2	bet	1																		0
+Diabloq (H)			-6	993	993	1024	1024		Weapon 5CH	3	Armor 5CH	2	Essence C	1																		0
 Summoner			-6	900	900	972	1024		Weapon 2C	4	Armor 2C	2																				0
-Summoner (N)			-4	900	900	972	1024		Weapon 2CN	2	Armor 2CN	1	jew	1																		0
-Summoner (H)			-5	900	900	972	1024		Weapon 2CH	2	Armor 2CH	1	jew	1	Key B	1																0
+Summoner (N)			-4	900	900	972	1024		Weapon 2CN	2	Armor 2CN	1	Boss Charms	1																		0
+Summoner (H)			-5	900	900	972	1024		Weapon 2CH	2	Armor 2CH	1	Boss Charms	1	Key B	1																0
 Council			-2	650	800	800	1024		Act 4 Equip A	1	Act 4 Good	1																				0
 Council (N)			-2	650	800	800	1024		Act 4 (N) Equip A	1	Act 4 (N) Good	1																				0
 Council (H)			-2	650	800	800	1024		Act 4 (H) Equip A	1	Act 4 (H) Good	1																				0
@@ -847,7 +847,7 @@ Baal (N)			-6	983	983	983	1024		Weapon 1AH	4	Armor 1AH	2																				0
 Baal (H)			-6	983	983	983	1024		Weapon 5BH	3	Armor 5BH	2	Essence D	1																		0
 Baalq			-6	993	993	1024	1024		Weapon 1AN	4	Armor 1AN	2																				0
 Baalq (N)			-6	993	993	1024	1024		Weapon 1AH	4	Armor 1AH	2																				0
-Baalq (H)			-6	993	993	1024	1024		Weapon 5BH	3	Armor 5BH	2	fed	1																		0
+Baalq (H)			-6	993	993	1024	1024		Weapon 5BH	3	Armor 5BH	2	Essence D	1																		0
 Blood Raven			-6	983	983	983	1024		Act 5 Bow B	4	Armor 1B	2																				0
 Blood Raven (N)			-6	983	983	983	1024		Act 5 (N) Bow B	4	Armor 1BN	2																				0
 Blood Raven (H)			-6	983	983	983	1024		Act 5 (H) Bow B	4	Armor 1BH	2																				0
