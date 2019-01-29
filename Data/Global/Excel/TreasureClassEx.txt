@@ -791,15 +791,15 @@ Swarm 1 (N)	17	40	1					125	Potion 6	12	Misc 2	6	Act 2 (N) Good	1	Act 2 (N) Magi
 Swarm 2 (N)	17	46	1					125	Potion 6	12	Misc 2	6	Act 3 (N) Good	1	Act 3 (N) Magic A	6																0
 Swarm 1 (H)	17	68	1					125	Potion 6	12	Misc 2	6	Act 2 (H) Good	1	Act 2 (H) Magic A	6																0
 Swarm 2 (H)	17	74	1					125	Potion 6	12	Misc 2	6	Act 3 (H) Good	1	Act 3 (H) Magic A	6																0
-Andariel			-6	983	983	983	1024		Weapon 2A	4	Armor 2A	2																				0
-Andariel (N)			-4	983	983	983	1024		Weapon 2AN	2	Armor 2AN	1	rin	1																		0
-Andariel (H)			-5	983	983	983	1024		Weapon 2AH	2	Armor 2AH	1	rin	1	Essence A	1																0
-Andarielq			-6	995	995	1024	1024		Weapon 2A	4	Armor 2A	2																				0
-Andarielq (N)			-4	995	995	1024	1024		Weapon 2AN	2	Armor 2AN	1	rin	1																		0
-Andarielq (H)			-5	995	995	1024	1024		Weapon 2AH	2	Armor 2AH	1	rin	1	Essence A	1																0
+Andariel			-6	983	983	983	1024		Weapon 2A	4	Armor 2A	2	rin	1																		0
+Andariel (N)			-4	983	983	983	1024		Weapon 2AN	2	Armor 2AN	1	rin	2																		0
+Andariel (H)			-5	983	983	983	1024		Weapon 2AH	2	Armor 2AH	1	rin	2	Essence A	1																0
+Andarielq			-6	995	995	1024	1024		Weapon 2A	4	Armor 2A	2	rin	1																		0
+Andarielq (N)			-4	995	995	1024	1024		Weapon 2AN	2	Armor 2AN	1	rin	2																		0
+Andarielq (H)			-5	995	995	1024	1024		Weapon 2AH	2	Armor 2AH	1	rin	2	Essence A	1																0
 Duriel - Base			-6	983	983	983	1024		Weapon 3A	2	Armor 3A	1	jew	1																		0
-Duriel (N) - Base			-6	983	983	983	1024		Weapon 3AN	2	Armor 3AN	1	jew	1																		0
-Duriel (H) - Base			-6	983	983	983	1024		Weapon 3AH	2	Armor 3AH	1	jew	2																		0
+Duriel (N) - Base			-6	983	983	983	1024		Weapon 3AN	2	Armor 3AN	1	jew	2																		0
+Duriel (H) - Base			-6	983	983	983	1024		Weapon 3AH	2	Armor 3AH	1	jew	3																		0
 Durielq - Base			-6	993	993	1024	1024		Weapon 3A	4	Armor 3A	2																				0
 Durielq (N) - Base			-6	993	993	1024	1024		Weapon 3AN	2	Armor 3AN	1	jew	1																		0
 Durielq (H) - Base			-6	993	993	1024	1024		Weapon 3AH	2	Armor 3AH	1	jew	2																		0
@@ -809,21 +809,21 @@ Radament (H)			-4	900	900	900	1024		Weapon 3BH	2	Armor 3BH	1	sku	1														
 Flying Scimitar			1					100	Act 2 Good	3	scm	57																				0
 Flying Scimitar (N)			1					100	Act 2 (N) Good	3	scm	25	9sm	32																		0
 Flying Scimitar (H)			1					100	Act 2 (H) Good	3	scm	7	9sm	18	7sm	32																0
-Mephisto			-6	983	983	983	1024		Weapon 4A	4	Armor 4A	2																				0
-Mephisto (N)			-4	983	983	983	1024		Weapon 4AN	2	Armor 4AN	1	amu	1																		0
-Mephisto (H)			-5	983	983	983	1024		Weapon 4AH	2	Armor 4AH	1	amu	1	Essence B	1																0
+Mephisto			-6	983	983	983	1024		Weapon 4A	4	Armor 4A	2	amu	1																		0
+Mephisto (N)			-4	983	983	983	1024		Weapon 4AN	2	Armor 4AN	1	amu	2																		0
+Mephisto (H)			-5	983	983	983	1024		Weapon 4AH	2	Armor 4AH	1	amu	2	Essence B	1																0
 Mephistoq			-6	993	993	1024	1024		Weapon 4A	4	Armor 4A	2																				0
-Mephistoq (N)			-4	993	993	1024	1024		Weapon 4AN	2	Armor 4AN	1	amu	1																		0
-Mephistoq (H)			-5	993	993	1024	1024		Weapon 4AH	2	Armor 4AH	1	amu	1	Essence B	1																0
+Mephistoq (N)			-4	993	993	1024	1024		Weapon 4AN	2	Armor 4AN	1	amu	2																		0
+Mephistoq (H)			-5	993	993	1024	1024		Weapon 4AH	2	Armor 4AH	1	amu	2	Essence B	1																0
 Diablo			-6	983	983	983	1024		Weapon 5A	4	Armor 5A	2																				0
 Diablo (N)			-6	983	983	983	1024		Weapon 5AN	4	Armor 5AN	2																				0
 Diablo (H)			-6	983	983	983	1024		Weapon 5AH	3	Armor 5AH	2	Essence C	1																		0
 Diabloq			-6	993	993	1024	1024		Weapon 5C	4	Armor 5C	2																				0
 Diabloq (N)			-6	993	993	1024	1024		Weapon 5CN	4	Armor 5CN	2																				0
 Diabloq (H)			-6	993	993	1024	1024		Weapon 5CH	3	Armor 5CH	2	Essence C	1																		0
-Summoner			-6	900	900	972	1024		Weapon 2C	4	Armor 2C	2																				0
-Summoner (N)			-4	900	900	972	1024		Weapon 2CN	2	Armor 2CN	1	Boss Charms	1																		0
-Summoner (H)			-5	900	900	972	1024		Weapon 2CH	2	Armor 2CH	1	Boss Charms	1	Key B	1																0
+Summoner			-6	900	900	972	1024		Weapon 2C	4	Armor 2C	2	Boss Charms	1																		0
+Summoner (N)			-4	900	900	972	1024		Weapon 2CN	2	Armor 2CN	1	Boss Charms	2																		0
+Summoner (H)			-5	900	900	972	1024		Weapon 2CH	2	Armor 2CH	1	Boss Charms	2	Key B	1																0
 Council			-2	650	800	800	1024		Act 4 Equip A	1	Act 4 Good	1																				0
 Council (N)			-2	650	800	800	1024		Act 4 (N) Equip A	1	Act 4 (N) Good	1																				0
 Council (H)			-2	650	800	800	1024		Act 4 (H) Equip A	1	Act 4 (H) Good	1																				0
@@ -855,8 +855,8 @@ Smith			-6	800	800	900	1024	0	Weapon 1B	6																						0
 Smith (N)			-6	800	800	900	1024	0	Weapon 1BN	6																						0
 Smith (H)			-6	800	800	900	1024	0	Weapon 1BH	6																						0
 Izual			-4	800	800	972	1024		Weapon 4B	2	Armor 4B	1	Boss Gems	1																		0
-Izual (N)			-5	800	800	972	1024		Weapon 4BN	2	Armor 4BN	1	Boss Gems N	2																		0
-Izual (H)			-5	800	800	972	1024		Weapon 4BH	2	Armor 4BH	1	Boss Gems H	2																		0
+Izual (N)			-5	800	800	972	1024		Weapon 4BN	2	Armor 4BN	1	Boss Gems	2																		0
+Izual (H)			-5	800	800	972	1024		Weapon 4BH	2	Armor 4BH	1	Boss Gems	3																		0
 Act 1 Super A	18	0	-4	800	800	972	1024	0	Act 1 Uitem A	2	Act 1 Cpot A	2																				0
 Act 1 Super B	18	5	-4	800	800	972	1024	0	Act 1 Uitem B	2	Act 1 Cpot B	2																				0
 Act 1 Super C	18	9	-4	800	800	972	1024	0	Act 1 Uitem C	2	Act 1 Cpot C	2																				0
