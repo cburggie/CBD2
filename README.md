@@ -59,6 +59,11 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * super health and mana potions are sold by vendors in late Nightmare
 * rejuvenation potions are sold by vendors in late Hell
 
+### MonStats.txt
+
+* capped max resistances at 105% so a wand of lower resist will barely break
+a monster's immunities.
+
 ### Runes.txt
 
 * ladder only runewords available in single player
@@ -73,21 +78,19 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 ### TreasureClassEx.txt
 
 * runes drop uniformly among possible rune drops
-* The Countess is guaranteed 3 runes up to Sol/Ist/Zod
+* The Countess drops 3 runes up to Sol/Um/Ber
 * Exceptional and Elite items drop more often
-* Blood Raven drops a bow
+* Blood Raven drops a bows
 * Griswold drops class items
 * Smith drops weapons
-* Andariel drops in nightmare and hell
-* Radamant drops skulls
-* Summoner drops charms in nightmare and hell
-* Duriel drops jewels
-* Mephisto drops amulets in nightmare and hell
-* Izual drops gems
+* Andariel drops up to 1/2/3 rings
+* Radamant drops up to 1/2/3 skulls
+* Summoner drops up to 1/2/3 charms
+* Duriel drops up to 1/2/3 jewels
+* Mephisto drops up to 1/2/3 amulets
+* Izual drops 1/2/3 flawless gems
 * Hephasto drops armor
-* Diablo drops extra weapons and armor
-* Nilathak drops skulls and his key
-* Baal drops extra weapons and armor
+* Nilathak drops up to 1/2/3 flawless skulls
 * keys and essences have 25% drop rate
 
 ### UniqueItems.txt
@@ -125,18 +128,18 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * reroll a unique and make it ethereal: 3 perfect skulls + Eth rune (`ilvl=ilvl`)
 * upgrade an item to unique rarity: Hellfire Torch + Annihilus + The Stone of Jordan (`ilvl=plvl`)
 * upgrade an item to set rarity: Hellfire Torch + Annihilus + Zod rune (`ilvl=plvl`)
-* +1 socket on rare item: 3 perfect skulls + 1 unique ring
+* Larzuk Quest sockets on magic/rare/set/unique: 3 perfect skulls + 1 unique ring
 
 ### Reroll Recipes
 
 * reroll magic item: 3 perfect gems (`ilvl = ilvl`)
 * reroll rare item: 3 perfect skulls (`ilvl = 0.66*ilvl + 0.66*plvl`)
-* token of absolution: Wirt's Leg + Tome of Identify
+* Token of Absolution: Wirt's Leg + Tome of Identify
 
 ### Utility Recipes
 
 * repair and recharge item: 1 Ral rune
-* unsocket item: 1 Hel rune + 1 Scroll of Town Portal
+* unsocket item (keeping gems/jewels/runes): 1 Hel rune + 1 Scroll of Town Portal
 
 ### Annihilus and Hellfire Torch
 
