@@ -134,7 +134,10 @@ Normal shield + 2 pgem -> 2 sockets	1			100					3	shld,nor,nos	gem4,qty=2						u
 Normal helm + 2 pgem + 1 flawless -> 3 sockets	1			100					4	helm,nor,nos							useitem				sock			3	3																																																																															0
 Normal helm + 2 pgem -> 2 sockets	1			100					3	helm,nor,nos							useitem				sock			2	2																																																																															0
 *****Item Upgrade Recipes*****																																																																																																								0
-3 perfect skull + 1 rare item + unique ring -> add 1 socket to rare	1			0					5	any,rar,nos	skz,qty=3	rin,uni					useitem,sock=1																																																																																							0
+3 perfect skull + 1 magic item + unique ring -> add 2 socket to magic item	1			100					5	any,mag,nos	skz,qty=3	rin,uni					useitem,sock=2																																																																																							0
+3 perfect skull + 1 rare item + unique ring -> add 1 socket to rare item	1			0					5	any,rar,nos	skz,qty=3	rin,uni					useitem,sock=1																																																																																							0
+3 perfect skull + 1 set item + unique ring -> add 1 socket to set item	1			100					5	any,set,nos	skz,qty=3	rin,uni					useitem,sock=1																																																																																							0
+3 perfect skull + 1 unique item + unique ring -> add 1 socket to unique item	1			100					5	any,uni,nos	skz,qty=3	rin,uni					useitem,sock=1																																																																																							0
 3 pskull + 1 magic jewel + basic -> exceptional	1			100					5	weap,bas	skz,qty=3	jew,mag					useitem,mod,exc																																																																																							0
 3 pskull + 1 magic jewel + basic -> exceptional	1			100					5	Armo,bas	skz,qty=3	jew,mag					useitem,mod,exc																																																																																							0
 3 pskull + 1 rare jewel + exceptional -> elite	1			100					5	weap,exc	skz,qty=3	jew,rare					useitem,mod,eli																																																																																							0
