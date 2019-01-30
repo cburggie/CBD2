@@ -114,7 +114,7 @@ armor + Hellfire Torch + Annihilus + Zod rune -> set armor	1			100					4	armo	He
 *****Utility Recipes*****																																																																																																								0
 r08 + weapon -> repair + recharge	1			100					2	weap	r08						useitem,rep,rch,qty=255																																																																																							0
 r08 + armor -> repair + recharge	1			100					2	armo	r08						useitem,rep,rch,qty=255																																																																																							0
-r15 + tsc + any socketed item -> unsocket (destroy gems)	1			100					3	any,sock	r15	tsc					useitem,uns																																																																																							0
+r15 + tsc + any socketed item -> unsocket item (keep gems)	1			100					3	any,sock	r15	tsc					useitem,rem																																																																																							0
 *****Runeword Prep Recipes*****																																																																																																								0
 any weapon + 3 jewel -> normal, unsocketed, nonethereal weapon	1			100					4	weap	jew,qty=3						usetype,nor,nos,noe		100																																																																																					0
 any armor + 3 jewel -> normal, unsocketed, nonethereal armor	1			100					4	armo	jew,qty=3						usetype,nor,nos,noe		100																																																																																					0
