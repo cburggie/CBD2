@@ -41,8 +41,8 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 ### DifficultyLevels.txt
 
 * improved gambling chances of rare/set/unique to 30%/5%/2.5%
-* gambling in Nightmare difficulty can yield Exceptional gear (`p=1%+2%*(ilvl-qlvl)`)
-* gambling in Hell difficulty can yield Elite gear (`p=1%+2%*(ilvl-qlvl)`)
+* gambling in Nightmare difficulty can frequently yield Exceptional gear (`p=1%+5%*(ilvl-qlvl)`)
+* gambling in Hell difficulty can frequently yield Elite gear (`p=1%+5%*(ilvl-qlvl)`)
 
 ### Experience.txt
 
@@ -132,8 +132,9 @@ a monster's immunities.
 
 ### Reroll Recipes
 
-* reroll magic item: 3 perfect gems (`ilvl = ilvl`)
+* reroll magic item: 3 perfect gems (`ilvl = plvl`)
 * reroll rare item: 3 perfect skulls (`ilvl = 0.66*ilvl + 0.66*plvl`)
+* 'regenerate' a set/unique item (reroll the item's random stats): 3 perfect gems
 * Token of Absolution: Wirt's Leg + Tome of Identify
 
 ### Utility Recipes
