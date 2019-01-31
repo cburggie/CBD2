@@ -106,11 +106,13 @@ assassin tab 3 charm	1			100				ass	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pre
 2 rune 32 -> rune 33	1			100					2	r32,qty=2							r33																																																																																							0
 *****Reroll Recipes*****																																																																																																								0
 3 perfect gems + 1 magic item -> magic item	1			100					4	any,mag	gem4,qty=3						usetype,mag		100																																																																																					0
+3 perfect gems + 1 unique item -> regenerate unique item	1			100					4	any,uni	gem4,qty=3						useitem,reg																																																																																							0
+3 perfect gems + 1 set item -> regenerate set item	1			100					4	any,set	gem4,qty=3						useitem,reg																																																																																							0
 3 perfect skull + 1 rare item -> 1 high level rare item	1			0					4	any,rar	skz,qty=3						usetype,rar		66	66																																																																																				0
-weapon + Hellfire Torch + Annihilus + SoJ -> unique weapon	1			100					4	weap	Hellfire Torch	Annihilus	The Stone of Jordan				usetype,uni		100																																																																																					0
-armor + Hellfire Torch + Annihilus + SoJ -> unique armor	1			100					4	armo	Hellfire Torch	Annihilus	The Stone of Jordan				usetype,uni		100																																																																																					0
-weapon + Hellfire Torch + Annihilus + Zod rune -> set weapon	1			100					4	weap	Hellfire Torch	Annihilus	r33				usetype,set		100																																																																																					0
-armor + Hellfire Torch + Annihilus + Zod rune -> set armor	1			100					4	armo	Hellfire Torch	Annihilus	r33				usetype,set		100																																																																																					0
+weapon + Hellfire Torch + Annihilus + SoJ -> unique weapon	1			100					4	weap	Hellfire Torch	Annihilus	The Stone of Jordan				usetype,uni	99																																																																																						0
+armor + Hellfire Torch + Annihilus + SoJ -> unique armor	1			100					4	armo	Hellfire Torch	Annihilus	The Stone of Jordan				usetype,uni	99																																																																																						0
+weapon + Hellfire Torch + Annihilus + Zod rune -> set weapon	1			100					4	weap	Hellfire Torch	Annihilus	r33				usetype,set	99																																																																																						0
+armor + Hellfire Torch + Annihilus + Zod rune -> set armor	1			100					4	armo	Hellfire Torch	Annihilus	r33				usetype,set	99																																																																																						0
 *****Utility Recipes*****																																																																																																								0
 r08 + weapon -> repair + recharge	1			100					2	weap	r08						useitem,rep,rch,qty=255																																																																																							0
 r08 + armor -> repair + recharge	1			100					2	armo	r08						useitem,rep,rch,qty=255																																																																																							0
