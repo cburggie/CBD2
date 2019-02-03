@@ -184,7 +184,7 @@ passive_resistfire	181																																																										
 passive_resistcold	182																																																																						0
 passive_resistltng	183																																																																						0
 uberminion	184																														1		1	1	1																												impact_bluemotize_1								0
-passive_nec_pd	185																																																																						
+passive_nec_pd	185																																																																						0
 passive_nec_lr	186																																																																						0
 passive_dru_pp	187																																																																						0
 passive_dru_fc	188																																																																						0
