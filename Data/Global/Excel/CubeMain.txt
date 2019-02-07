@@ -141,7 +141,7 @@ Normal helm + 2 pgem -> 2 sockets	1			100					3	helm,nor,nos							useitem				so
 3 perfect skull + 1 set item + unique ring -> add 1 socket to set item	1			100					5	any,set,nos	skz,qty=3	rin,uni					useitem,sock=1																																																																																							0
 3 perfect skull + 1 unique item + unique ring -> add 1 socket to unique item	1			100					5	any,uni,nos	skz,qty=3	rin,uni					useitem,sock=1																																																																																							0
 3 pskull + 1 magic jewel + basic -> exceptional	1			100					5	weap,bas	skz,qty=3	jew,mag					useitem,mod,exc																																																																																							0
-3 pskull + 1 magic jewel + basic -> exceptional	1			100					5	Armo,bas	skz,qty=3	jew,mag					useitem,mod,exc																																																																																							0
+3 pskull + 1 magic jewel + basic -> exceptional	1			100					5	armo,bas	skz,qty=3	jew,mag					useitem,mod,exc																																																																																							0
 3 pskull + 1 rare jewel + exceptional -> elite	1			100					5	weap,exc	skz,qty=3	jew,rare					useitem,mod,eli																																																																																							0
 3 pskull + 1 rare jewel + exceptional -> elite	1			100					5	armo,exc	skz,qty=3	jew,rare					useitem,mod,eli																																																																																							0
 3 pskul + Eth rune + unique weapon -> ethereal unique weapon	1			100					5	weap,uni	skz,qty=3	r05					usetype,eth,uni			100																																																																																				0
