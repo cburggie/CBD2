@@ -192,3 +192,4 @@ passive_ass_fof	189																																																													
 passive_ass_cot	190																																																																						0
 passive_ass_boi	191																																																																						0
 passive_ass_ven	192																																																																						0
+passive_pal_salv	193																																																																						
