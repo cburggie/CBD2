@@ -185,11 +185,20 @@ passive_resistcold	182																																																										
 passive_resistltng	183																																																																						0
 uberminion	184																														1		1	1	1																												impact_bluemotize_1								0
 passive_nec_pd	185																																																																						0
-passive_nec_lr	186																																																																						0
-passive_dru_pp	187																																																																						0
-passive_dru_fc	188																																																																						0
-passive_ass_fof	189																																																																						0
-passive_ass_cot	190																																																																						0
-passive_ass_boi	191																																																																						0
-passive_ass_ven	192																																																																						0
-passive_pal_salv	193																																																																						
+passive_nec_pe	186																																																																						0
+passive_nec_pn	187																																																																						0
+passive_dru_pp	188																																																																						0
+passive_dru_fc	189																																																																						0
+passive_ass_fof	190																																																																						0
+passive_ass_cot	191																																																																						0
+passive_ass_boi	192																																																																						0
+passive_ass_ven	193																																																																						0
+passive_pal_salv	194																																																																						0
+passive_ama_fi	195																																																																						0
+passive_ama_co	196																																																																						0
+passive_ama_po	197																																																																						0
+passive_ama_ex	198																																																																						0
+passive_ama_ic	199																																																																						0
+passive_ama_pl	200																																																																						0
+passive_ama_im	201																																																																						0
+passive_ama_fr	202																																																																						0
