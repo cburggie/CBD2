@@ -118,8 +118,8 @@ r08 + weapon -> repair + recharge	1			100					2	weap	r08						useitem,rep,rch,qt
 r08 + armor -> repair + recharge	1			100					2	armo	r08						useitem,rep,rch,qty=255																																																																																							0
 r15 + tsc + any socketed item -> unsocket item (keep gems)	1			100					3	any,sock	r15	tsc					useitem,rem																																																																																							0
 *****Runeword Prep Recipes*****																																																																																																								0
-any weapon + 3 jewel -> normal, unsocketed, nonethereal weapon	1			100					4	weap	jew,qty=3						usetype,nor,nos,noe		100																																																																																					0
-any armor + 3 jewel -> normal, unsocketed, nonethereal armor	1			100					4	armo	jew,qty=3						usetype,nor,nos,noe		100																																																																																					0
+any weapon + token of absolution -> normal, unsocketed, nonethereal weapon	1			100					2	weap	toa						usetype,nor,nos,noe		100																																																																																					0
+any armor + token of absolution -> normal, unsocketed, nonethereal armor	1			100					2	armo	toa						usetype,nor,nos,noe		100																																																																																					0
 Eth(r05) + normal weapon -> ethereal weapon	1			100					2	weap,nor,nos	r05						usetype,eth,nor,nos		100																																																																																					0
 Eth(r05) + normal armor -> ethereal armor	1			100					2	armo,nor,nos	r05						usetype,eth,nor,nos		100																																																																																					0
 Normal weapon + 4 pgem -> 6 sockets	1			100					5	weap,nor,nos	gem4,qty=4						useitem				sock			6	6																																																																															0
