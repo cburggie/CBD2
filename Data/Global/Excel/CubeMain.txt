@@ -122,19 +122,19 @@ any weapon + token of absolution -> normal, unsocketed, nonethereal weapon	1			1
 any armor + token of absolution -> normal, unsocketed, nonethereal armor	1			100					2	armo	toa						usetype,nor,nos,noe		100																																																																																					0
 Eth(r05) + normal weapon -> ethereal weapon	1			100					2	weap,nor,nos	r05						usetype,eth,nor,nos		100																																																																																					0
 Eth(r05) + normal armor -> ethereal armor	1			100					2	armo,nor,nos	r05						usetype,eth,nor,nos		100																																																																																					0
-Normal weapon + 4 pgem -> 6 sockets	1			100					5	weap,nor,nos	gem4,qty=4						useitem				sock			6	6																																																																															0
-Normal weapon + 3 pgem + 1 flawless -> 5 sockets	1			100					5	weap,nor,nos	gem4,qty=3	gem3					useitem				sock			5	5																																																																															0
-Normal weapon + 3 pgem -> 4 sockets	1			100					4	weap,nor,nos	gem4,qty=3						useitem				sock			4	4																																																																															0
-Normal weapon + 2 pgem + 1 flawless -> 3 sockets	1			100					4	weap,nor,nos	gem4,qty=2	gem3					useitem				sock			3	3																																																																															0
-Normal weapon + 2 pgem -> 2 sockets	1			100					3	weap,nor,nos	gem4,qty=2						useitem				sock			2	2																																																																															0
-Normal torso + 3 pgem -> 4 sockets	1			100					4	tors,nor,nos	gem4,qty=3						useitem				sock			4	4																																																																															0
-Normal torso + 2 pgem + 1 flawless -> 3 sockets	1			100					4	tors,nor,nos	gem4,qty=2	gem3					useitem				sock			3	3																																																																															0
-Normal torso + 2 pgem -> 2 sockets	1			100					3	tors,nor,nos	gem4,qty=2						useitem				sock			2	2																																																																															0
-Normal shield + 3 pgem -> 4 sockets	1			100					4	shld,nor,nos	gem4,qty=3						useitem				sock			4	4																																																																															0
-Normal shield + 2 pgem + 1 flawless -> 3 sockets	1			100					4	shld,nor,nos	gem4,qty=2	gem3					useitem				sock			3	3																																																																															0
-Normal shield + 2 pgem -> 2 sockets	1			100					3	shld,nor,nos	gem4,qty=2						useitem				sock			2	2																																																																															0
-Normal helm + 2 pgem + 1 flawless -> 3 sockets	1			100					4	helm,nor,nos	gem4,qty=2	gem3					useitem				sock			3	3																																																																															0
-Normal helm + 2 pgem -> 2 sockets	1			100					3	helm,nor,nos	gem4,qty=2						useitem				sock			2	2																																																																															0
+Normal weapon + 4 pgem -> 6 sockets	1			100					5	weap,nor,nos	rin,qty=4						useitem				sock			6	6																																																																															0
+Normal weapon + 3 pgem + 1 flawless -> 5 sockets	1			100					5	weap,nor,nos	rin,qty=3	amu					useitem				sock			5	5																																																																															0
+Normal weapon + 3 pgem -> 4 sockets	1			100					4	weap,nor,nos	rin,qty=3						useitem				sock			4	4																																																																															0
+Normal weapon + 2 pgem + 1 flawless -> 3 sockets	1			100					4	weap,nor,nos	rin,qty=2	amu					useitem				sock			3	3																																																																															0
+Normal weapon + 2 pgem -> 2 sockets	1			100					3	weap,nor,nos	rin,qty=2						useitem				sock			2	2																																																																															0
+Normal torso + 3 pgem -> 4 sockets	1			100					4	tors,nor,nos	rin,qty=3						useitem				sock			4	4																																																																															0
+Normal torso + 2 pgem + 1 flawless -> 3 sockets	1			100					4	tors,nor,nos	rin,qty=2	amu					useitem				sock			3	3																																																																															0
+Normal torso + 2 pgem -> 2 sockets	1			100					3	tors,nor,nos	rin,qty=2						useitem				sock			2	2																																																																															0
+Normal shield + 3 pgem -> 4 sockets	1			100					4	shld,nor,nos	rin,qty=3						useitem				sock			4	4																																																																															0
+Normal shield + 2 pgem + 1 flawless -> 3 sockets	1			100					4	shld,nor,nos	rin,qty=2	amu					useitem				sock			3	3																																																																															0
+Normal shield + 2 pgem -> 2 sockets	1			100					3	shld,nor,nos	rin,qty=2						useitem				sock			2	2																																																																															0
+Normal helm + 2 pgem + 1 flawless -> 3 sockets	1			100					4	helm,nor,nos	rin,qty=2	amu					useitem				sock			3	3																																																																															0
+Normal helm + 2 pgem -> 2 sockets	1			100					3	helm,nor,nos	rin,qty=2						useitem				sock			2	2																																																																															0
 *****Item Upgrade Recipes*****																																																																																																								0
 3 perfect skull + 1 magic item + unique ring -> add 2 socket to magic item	1			100					5	any,mag,nos	skz,qty=3	rin,uni					useitem,sock=2																																																																																							0
 3 perfect skull + 1 rare item + unique ring -> add 1 socket to rare item	1			0					5	any,rar,nos	skz,qty=3	rin,uni					useitem,sock=1																																																																																							0
