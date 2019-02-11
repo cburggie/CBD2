@@ -48,9 +48,14 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 * the leveling slow-down after experience level 70 is no longer as steep
 
+### ItemTypes.txt
+
+* items can have the max number of sockets at any ilvl.
+
 ### MagicPrefixes.txt and MagicSuffixes.txt
 
 * rare affixes are more common
+* charges of amplify damage now appear
 
 ### Misc.txt
 
@@ -58,6 +63,10 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * mana potions restore 20/40/80/160/320 hp
 * super health and mana potions are sold by vendors in late Nightmare
 * rejuvenation potions are sold by vendors in late Hell
+
+### Missiles.txt
+
+* added entries for reworked Necromancer skill Poison Dagger
 
 ### MonStats.txt
 
@@ -69,11 +78,23 @@ a monster's immunities.
 * ladder only runewords available in single player
 * all runewords yield best rolls possible
 
-### Set Items.txt
+### SetItems.txt
 
 * ladder-only set pieces drop in single player
 * set pieces from the same item type have equal rarity
 * many important rolls always get best rng (skills, resists, etc)
+
+### SkillDesc.txt
+
+* updates to in game description of some changed skills
+
+### Skills.txt
+
+* made changes to several skills in attempt to make more character builds viable
+
+### States.txt
+
+* added passive states for updates skills
 
 ### TreasureClassEx.txt
 
@@ -103,13 +124,13 @@ a monster's immunities.
 
 ### Runeword Preparation Recipes
 
-* remove sockets, ethereal, rarity: 3 jewels (`ilvl = plvl`)
+* remove sockets, ethereal, rarity: Token of Absolution (`ilvl = plvl`)
 * make plain item ethereal: Eth rune (`ilvl = plvl`)
-* add 2 sockets: 2 perfect gems
-* add 3 sockets: 1 flawless + 2 perfect gems
-* add 4 sockets: 3 perfect gems
-* add 5 sockets: 1 flawless + 3 perfect gems
-* add 6 sockets: 4 perfect gems
+* add 2 sockets: 2 rings
+* add 3 sockets: 2 rings + 1 amulet
+* add 4 sockets: 3 rings
+* add 5 sockets: 3 rings + 1 amulet
+* add 6 sockets: 4 rings
 
 ### Staff of Teleportation Recipe
 
@@ -153,10 +174,64 @@ a monster's immunities.
 * ring, amulet recycle recipes have `ilvl = plvl` (from `ilvl = 0.75*plvl`)
 
 
+## Skill Changes
+
+### Amazon
+
+* Fire Arrow gives passive fire pierce
+* Exploding Arrow gives passive fire pierce
+* Immolation Arrow gives passive fire pierce
+* Cold Arrow gives passive cold pierce
+* Ice Arrow gives passive cold pierce
+* Freezing Arrow gives passive cold pierce
+* Poison Javelin gives passive poison pierce
+* Plague Javelin gives passive poison pierce
+* Pierce gives passive fire/cold/lightning/poison pierce
+
+### Assassin
+
+* Fists of Fire gives passive fire mastery and pierce
+* Blades of Ice gives passive cold mastery and pierce
+* Claws of Thunder gives passive lightning mastery and pierce
+* Venom gives passive poison mastery and pierce
+
+### Barbarian
+
+* Battle Cry lowers enemy physical resistance equal to the damage drop
+* War Cry does more physical damage (similar to Druid's Tornado)
+
+
+### Druid
+
+* Fire Claws gives passive fire mastery and pierce
+* Poison Creeper gives passive poison mastery and pierce
+* Werewolf and Werebear can now cast Druid Fire skills and many out of class buffs and melee skills
+
+### Necromancer
+
+* Teeth can hit an enemy multiple times
+* Poison Dagger now launches a magical dagger leaving a trail of poison clouds
+* Poison Dagger gives passive bonus to knife AR and damage
+* poison skills all give passive poison mastery and pierce
+
+### Paladin
+
+* Resist Fire/Cold/Lightning give passive element pierce
+* Salvation gives passive Fire/Cold/Lightning/Poison pierce
+* Conviction affects enemy poison resistance
+
+### Sorceress
+
+* Fire Mastery also gives passive fire pierce
+* Lightning Mastery also gives passive lightning pierce
+* Energy Shield now synergizes with itself instead of Telekinesis
+* Chain Lightning has higher base damage
+
+
 ## To Do
 
 * add class specific crafted item recipes for amulets and circlets (good +skills)
-* allow replay of cow level somehow (will abandon if it requires hexediting)
+* allow replay of cow level somehow (can be done with cairn stone missiles, but messy)
 
 
 
