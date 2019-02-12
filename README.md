@@ -178,15 +178,10 @@ a monster's immunities.
 
 ### Amazon
 
-* Fire Arrow gives passive fire pierce
-* Exploding Arrow gives passive fire pierce
-* Immolation Arrow gives passive fire pierce
-* Cold Arrow gives passive cold pierce
-* Ice Arrow gives passive cold pierce
-* Freezing Arrow gives passive cold pierce
-* Poison Javelin gives passive poison pierce
-* Plague Javelin gives passive poison pierce
-* Pierce gives passive fire/cold/lightning/poison pierce
+* Magic Arrow damage improved and synergizes with fire and cold bow skills
+* fire bow skill damage improved, give passive fire mastery and pierce
+* fold bow skill damage improved, give passive cold mastery and pierce
+* poison javalin skills give poison pierce
 
 ### Assassin
 
