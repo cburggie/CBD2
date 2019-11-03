@@ -57,26 +57,26 @@ Act 3 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
 Act 4 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
 Act 5 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
 Amazon items			1						am1	1	am2	1	am3	1	am4	1	am5	1														0
-Amazon items N			1						am6	1	am7	1	am8	1	am9	1	ama	1	Amazon Items	5												0
-Amazon Items H			1						amb	1	amc	1	amd	1	ame	1	amf	1	Amazon Items N	10												0
+Amazon items N			1						am6	1	am7	1	am8	1	am9	1	ama	1														0
+Amazon Items H			1						amb	1	amc	1	amd	1	ame	1	amf	1														0
 Sorceress Items			1						ob1	1	ob2	1	ob3	1	ob4	1	ob5	1														0
-Sorceress Items N			1						ob6	1	ob7	1	ob8	1	ob9	1	oba	1	Sorceress Items	5												0
-Sorceress Items H			1						obb	1	obc	1	obd	1	obe	1	obf	1	Sorceress Items N	10												0
+Sorceress Items N			1						ob6	1	ob7	1	ob8	1	ob9	1	oba	1														0
+Sorceress Items H			1						obb	1	obc	1	obd	1	obe	1	obf	1														0
 Necromancer Items			1						ne1	1	ne2	1	ne3	1	ne4	1	ne5	1														0
-Necromancer Items N			1						ne6	1	ne7	1	ne8	1	ne9	1	nea	1	Necromancer Items	5												0
-Necromancer Items H			1						neb	1	neg	1	ned	1	nee	1	nef	1	Necromancer Items N	10												0
+Necromancer Items N			1						ne6	1	ne7	1	ne8	1	ne9	1	nea	1														0
+Necromancer Items H			1						neb	1	neg	1	ned	1	nee	1	nef	1														0
 Paladin Items			1						pa1	1	pa2	1	pa3	1	pa4	1	pa5	1														0
-Paladin Items N			1						pa6	1	pa7	1	pa8	1	pa9	1	paa	1	Paladin Items	5												0
-Paladin Items H			1						pab	1	pac	1	pad	1	pae	1	paf	1	Paladin Items N	10												0
+Paladin Items N			1						pa6	1	pa7	1	pa8	1	pa9	1	paa	1														0
+Paladin Items H			1						pab	1	pac	1	pad	1	pae	1	paf	1														0
 Barbarian Items			1						ba1	1	ba2	1	ba3	1	ba4	1	ba5	1														0
-Barbarian Items N			1						ba6	1	ba7	1	ba8	1	ba9	1	baa	1	Barbarian Items	5												0
-Barbarian Items H			1						bab	1	bac	1	bad	1	bae	1	baf	1	Barbarian Items N	10												0
+Barbarian Items N			1						ba6	1	ba7	1	ba8	1	ba9	1	baa	1														0
+Barbarian Items H			1						bab	1	bac	1	bad	1	bae	1	baf	1														0
 Druid Items			1						dr1	1	dr2	1	dr3	1	dr4	1	dr5	1														0
-Druid Items N			1						dr6	1	dr7	1	dr8	1	dr9	1	dra	1	Druid Items	5												0
-Druid Items H			1						drb	1	drc	1	drd	1	dre	1	drf	1	Druid Items N	10												0
+Druid Items N			1						dr6	1	dr7	1	dr8	1	dr9	1	dra	1														0
+Druid Items H			1						drb	1	drc	1	drd	1	dre	1	drf	1														0
 Assassin Items			1						ktr	1	wrb	1	axf	1	ces	1	clw	1	btl	1	skr	1										0
-Assassin Items N			1						9ar	1	9wb	1	9xf	1	9cs	1	9lw	1	9tw	1	9qr	1	Assassin Items	7								0
-Assassin Items H			1						7ar	1	7wb	1	7xf	1	7cs	1	7lw	1	7tw	1	7qr	1	Assassin Items N	14								0
+Assassin Items N			1						9ar	1	9wb	1	9xf	1	9cs	1	9lw	1	9tw	1	9qr	1										0
+Assassin Items H			1						7ar	1	7wb	1	7xf	1	7cs	1	7lw	1	7tw	1	7qr	1										0
 Class Items			1						Amazon Items	1	Sorceress Items	1	Necromancer Items	1	Paladin Items	1	Barbarian Items	1	Druid Items	1	Assassin Items	1										0
 Class Items N			1						Amazon Items N	1	Sorceress Items N	1	Necromancer Items N	1	Paladin Items N	1	Barbarian Items N	1	Druid Items N	1	Assassin Items N	1										0
 Class Items H			1						Amazon Items H	1	Sorceress Items H	1	Necromancer Items H	1	Paladin Items H	1	Barbarian Items H	1	Druid Items H	1	Assassin Items H	1										0
