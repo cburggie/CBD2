@@ -126,11 +126,11 @@ a monster's immunities.
 
 * remove sockets, ethereal, rarity: Token of Absolution (`ilvl = plvl`)
 * make plain item ethereal: Eth rune (`ilvl = plvl`)
-* add 2 sockets: 2 rings
-* add 3 sockets: 2 rings + 1 amulet
-* add 4 sockets: 3 rings
-* add 5 sockets: 3 rings + 1 amulet
-* add 6 sockets: 4 rings
+* add 2 sockets: 2 Perfect Gems
+* add 3 sockets: 2 Perfect Gems + 1 Flawless Gem
+* add 4 sockets: 3 Perfect Gems
+* add 5 sockets: 3 Perfect Gems + 1 Flawless Gem
+* add 6 sockets: 4 Perfect Gems
 
 ### Staff of Teleportation Recipe
 
