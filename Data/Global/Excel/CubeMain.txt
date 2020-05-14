@@ -2,7 +2,7 @@ description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input
 *****Quest Recipes*****																																																																																																								0
 Staff of Kings + Viper amulet -> Horadric Staff	1			0	28				2	msf	vip						hst																																																																																							0
 Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1			0	28				4	qf1	qhr	qey	qbr				qf2																																																																																							0
-1 Wirt's leg + 1 town portal book -> portal to cow lvl	1			0	28				2	leg	tbk						Cow Portal																																																																																							0
+1 Wirt's leg + 1 town portal book -> portal to cow lvl	1			0	28				2	leg	tbk						zcp																																																																																							0
 *****Resistance Jewelry Recipes*****																																																																																																								0
 1 perfect gem of each type + 1 amulet -> prismatic amulet	1			0					7	amu,mag	gpv	gpy	gpb	gpg	gpr	gpw	amu,mag,pre=331		100																																																																																					0
 1 ring + 1 perfect ruby -> garnet ring	1			0					2	rin,mag	gpr						rin,mag,pre=372		100																																																																																					0
@@ -213,35 +213,36 @@ Normal helm + 2 pgem -> 2 sockets	1			100					3	helm,nor,nos	hpot,qty=2						use
 3 pskull + 1 magic jewel + basic -> exceptional	1			100					3	armo,bas	tsc	isc					useitem,mod,exc																																																																																							0
 3 pskull + 1 rare jewel + exceptional -> elite	1			100					3	weap,exc	tsc	isc					useitem,mod,eli																																																																																							0
 3 pskull + 1 rare jewel + exceptional -> elite	1			100					3	armo,exc	tsc	isc					useitem,mod,eli																																																																																							0
-2 rune 02 -> rune 03	1			100					2	r03	tsc						r02																																																																																							0
-2 rune 03 -> rune 04	1			100					2	r04	tsc						r03																																																																																							0
-2 rune 04 -> rune 05	1			100					2	r05	tsc						r04																																																																																							0
-2 rune 05 -> rune 06	1			100					2	r06	tsc						r05																																																																																							0
-2 rune 06 -> rune 07	1			100					2	r07	tsc						r06																																																																																							0
-2 rune 07 -> rune 08	1			100					2	r08	tsc						r07																																																																																							0
-2 rune 08 -> rune 09	1			100					2	r09	tsc						r08																																																																																							0
-2 rune 09 -> rune 10	1			100					2	r10	tsc						r09																																																																																							0
-2 rune 10 -> rune 11	1			100					2	r11	tsc						r10																																																																																							0
-2 rune 11 -> rune 12	1			100					2	r12	tsc						r11																																																																																							0
-2 rune 12 -> rune 13	1			100					2	r13	tsc						r12																																																																																							0
-2 rune 13 -> rune 14	1			100					2	r14	tsc						r13																																																																																							0
-2 rune 14 -> rune 15	1			100					2	r15	tsc						r14																																																																																							0
-2 rune 15 -> rune 16	1			100					2	r16	tsc						r15																																																																																							0
-2 rune 16 -> rune 17	1			100					2	r17	tsc						r16																																																																																							0
-2 rune 17 -> rune 18	1			100					2	r18	tsc						r17																																																																																							0
-2 rune 18 -> rune 19	1			100					2	r19	tsc						r18																																																																																							0
-2 rune 19 -> rune 20	1			100					2	r20	tsc						r19																																																																																							0
-2 rune 20 -> rune 21	1			100					2	r21	tsc						r20																																																																																							0
-2 rune 21 -> rune 22	1			100					2	r22	tsc						r21																																																																																							0
-2 rune 22 -> rune 23	1			100					2	r23	tsc						r22																																																																																							0
-2 rune 23 -> rune 24	1			100					2	r24	tsc						r23																																																																																							0
-2 rune 24 -> rune 25	1			100					2	r25	tsc						r24																																																																																							0
-2 rune 25 -> rune 26	1			100					2	r26	tsc						r25																																																																																							0
-2 rune 26 -> rune 27	1			100					2	r27	tsc						r26																																																																																							0
-2 rune 27 -> rune 28	1			100					2	r28	tsc						r27																																																																																							0
-2 rune 28 -> rune 29	1			100					2	r29	tsc						r28																																																																																							0
-2 rune 29 -> rune 30	1			100					2	r30	tsc						r29																																																																																							0
-2 rune 30 -> rune 31	1			100					2	r31	tsc						r30																																																																																							0
-2 rune 31 -> rune 32	1			100					2	r32	tsc						r31																																																																																							0
-2 rune 32 -> rune 33	1			100					2	r33	tsc						r32																																																																																							0
-																	r33																																																																																							
+2 rune 02 -> rune 03	1			100					1	r02							r01																													r01																																																										0
+2 rune 02 -> rune 03	1			100					1	r03							r02																													r02																																																										0
+2 rune 03 -> rune 04	1			100					1	r04							r03																													r03																																																										0
+2 rune 04 -> rune 05	1			100					1	r05							r04																													r04																																																										0
+2 rune 05 -> rune 06	1			100					1	r06							r05																													r05																																																										0
+2 rune 06 -> rune 07	1			100					1	r07							r06																													r06																																																										0
+2 rune 07 -> rune 08	1			100					1	r08							r07																													r07																																																										0
+2 rune 08 -> rune 09	1			100					1	r09							r08																													r08																																																										0
+2 rune 09 -> rune 10	1			100					1	r10							r09																													r09																																																										0
+2 rune 10 -> rune 11	1			100					1	r11							r10																													r10																																																										0
+2 rune 11 -> rune 12	1			100					1	r12							r11																													r11																																																										0
+2 rune 12 -> rune 13	1			100					1	r13							r12																													r12																																																										0
+2 rune 13 -> rune 14	1			100					1	r14							r13																													r13																																																										0
+2 rune 14 -> rune 15	1			100					1	r15							r14																													r14																																																										0
+2 rune 15 -> rune 16	1			100					1	r16							r15																													r15																																																										0
+2 rune 16 -> rune 17	1			100					1	r17							r16																													r16																																																										0
+2 rune 17 -> rune 18	1			100					1	r18							r17																													r17																																																										0
+2 rune 18 -> rune 19	1			100					1	r19							r18																													r18																																																										0
+2 rune 19 -> rune 20	1			100					1	r20							r19																													r19																																																										0
+2 rune 20 -> rune 21	1			100					1	r21							r20																													r20																																																										0
+2 rune 21 -> rune 22	1			100					1	r22							r21																													r21																																																										0
+2 rune 22 -> rune 23	1			100					1	r23							r22																													r22																																																										0
+2 rune 23 -> rune 24	1			100					1	r24							r23																													r23																																																										0
+2 rune 24 -> rune 25	1			100					1	r25							r24																													r24																																																										0
+2 rune 25 -> rune 26	1			100					1	r26							r25																													r25																																																										0
+2 rune 26 -> rune 27	1			100					1	r27							r26																													r26																																																										0
+2 rune 27 -> rune 28	1			100					1	r28							r27																													r27																																																										0
+2 rune 28 -> rune 29	1			100					1	r29							r28																													r28																																																										0
+2 rune 29 -> rune 30	1			100					1	r30							r29																													r29																																																										0
+2 rune 30 -> rune 31	1			100					1	r31							r30																													r30																																																										0
+2 rune 31 -> rune 32	1			100					1	r32							r31																													r31																																																										0
+2 rune 32 -> rune 33	1			100					1	r33							r32																													r32																																																										0
+1 Wirt's leg + 1 town portal book -> portal to cow lvl	1			0					2	isc	tbk						zcp																																																																																							0
