@@ -209,3 +209,39 @@ Normal shield + 2 pgem + 1 flawless -> 3 sockets	1			100					4	shld,nor,nos	hpot
 Normal shield + 2 pgem -> 2 sockets	1			100					3	shld,nor,nos	hpot,qty=2						useitem				sock			2	2																																																																															0
 Normal helm + 2 pgem + 1 flawless -> 3 sockets	1			100					4	helm,nor,nos	hpot,qty=2	mpot					useitem				sock			3	3																																																																															0
 Normal helm + 2 pgem -> 2 sockets	1			100					3	helm,nor,nos	hpot,qty=2						useitem				sock			2	2																																																																															0
+3 pskull + 1 magic jewel + basic -> exceptional	1			100					3	weap,bas	tsc	isc					useitem,mod,exc																																																																																							0
+3 pskull + 1 magic jewel + basic -> exceptional	1			100					3	armo,bas	tsc	isc					useitem,mod,exc																																																																																							0
+3 pskull + 1 rare jewel + exceptional -> elite	1			100					3	weap,exc	tsc	isc					useitem,mod,eli																																																																																							0
+3 pskull + 1 rare jewel + exceptional -> elite	1			100					3	armo,exc	tsc	isc					useitem,mod,eli																																																																																							0
+2 rune 02 -> rune 03	1			100					2	r03	tsc						r02																																																																																							0
+2 rune 03 -> rune 04	1			100					2	r04	tsc						r03																																																																																							0
+2 rune 04 -> rune 05	1			100					2	r05	tsc						r04																																																																																							0
+2 rune 05 -> rune 06	1			100					2	r06	tsc						r05																																																																																							0
+2 rune 06 -> rune 07	1			100					2	r07	tsc						r06																																																																																							0
+2 rune 07 -> rune 08	1			100					2	r08	tsc						r07																																																																																							0
+2 rune 08 -> rune 09	1			100					2	r09	tsc						r08																																																																																							0
+2 rune 09 -> rune 10	1			100					2	r10	tsc						r09																																																																																							0
+2 rune 10 -> rune 11	1			100					2	r11	tsc						r10																																																																																							0
+2 rune 11 -> rune 12	1			100					2	r12	tsc						r11																																																																																							0
+2 rune 12 -> rune 13	1			100					2	r13	tsc						r12																																																																																							0
+2 rune 13 -> rune 14	1			100					2	r14	tsc						r13																																																																																							0
+2 rune 14 -> rune 15	1			100					2	r15	tsc						r14																																																																																							0
+2 rune 15 -> rune 16	1			100					2	r16	tsc						r15																																																																																							0
+2 rune 16 -> rune 17	1			100					2	r17	tsc						r16																																																																																							0
+2 rune 17 -> rune 18	1			100					2	r18	tsc						r17																																																																																							0
+2 rune 18 -> rune 19	1			100					2	r19	tsc						r18																																																																																							0
+2 rune 19 -> rune 20	1			100					2	r20	tsc						r19																																																																																							0
+2 rune 20 -> rune 21	1			100					2	r21	tsc						r20																																																																																							0
+2 rune 21 -> rune 22	1			100					2	r22	tsc						r21																																																																																							0
+2 rune 22 -> rune 23	1			100					2	r23	tsc						r22																																																																																							0
+2 rune 23 -> rune 24	1			100					2	r24	tsc						r23																																																																																							0
+2 rune 24 -> rune 25	1			100					2	r25	tsc						r24																																																																																							0
+2 rune 25 -> rune 26	1			100					2	r26	tsc						r25																																																																																							0
+2 rune 26 -> rune 27	1			100					2	r27	tsc						r26																																																																																							0
+2 rune 27 -> rune 28	1			100					2	r28	tsc						r27																																																																																							0
+2 rune 28 -> rune 29	1			100					2	r29	tsc						r28																																																																																							0
+2 rune 29 -> rune 30	1			100					2	r30	tsc						r29																																																																																							0
+2 rune 30 -> rune 31	1			100					2	r31	tsc						r30																																																																																							0
+2 rune 31 -> rune 32	1			100					2	r32	tsc						r31																																																																																							0
+2 rune 32 -> rune 33	1			100					2	r33	tsc						r32																																																																																							0
+																	r33																																																																																							
