@@ -42,7 +42,7 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 * improved gambling chances of rare/set/unique to 30%/5%/2.5%
 * gambling in Nightmare difficulty can frequently yield Exceptional gear (`p=1%+5%*(ilvl-qlvl)`)
-* gambling in Hell difficulty can frequently yield Elite gear (`p=1%+5%*(ilvl-qlvl)`)
+* gambling in Hell difficulty can frequently yield Elite gear (`p=1%+10%*(ilvl-qlvl)`)
 
 ### Experience.txt
 
