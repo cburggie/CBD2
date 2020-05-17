@@ -5,14 +5,16 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 ## Installation
 
-1) Copy the `Data` folder and all sub-folders and files to your Diablo II install path (eg. `C:\Program Files (x86)\Diablo II`).
+1) Copy the `Data` folder and all sub-folders and files to your Diablo II
+install path (eg. `C:\Program Files (x86)\Diablo II`).
 
 2) Make a copy of your Diablo II shortcut. In the shortcut properties add the
   `-direct` and `-txt` command line switches to the target property of the
   shortcut (eg. `"C:\Program Files (x86)\Diablo II\Diablo II.exe" -direct -txt`).
 
 3) This shortcut will now run the game with the mods active. Your old shortcut
-  will run the game without mods.
+  will run the game without mods. Note that save files played with the mod may
+not load properly without it.
 
 ## Mod Goals
 
@@ -41,8 +43,10 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 ### DifficultyLevels.txt
 
 * improved gambling chances of rare/set/unique to 30%/5%/2.5%
-* gambling in Nightmare difficulty can frequently yield Exceptional gear (`p=1%+5%*(ilvl-qlvl)`)
-* gambling in Hell difficulty can frequently yield Elite gear (`p=1%+10%*(ilvl-qlvl)`)
+* gambling in Nightmare difficulty can frequently yield Exceptional gear
+(`p=1%+5%*(ilvl-qlvl)`)
+* gambling in Hell difficulty can frequently yield Elite gear
+(`p=1%+10%*(ilvl-qlvl)`)
 
 ### Experience.txt
 
@@ -50,7 +54,9 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 ### ItemTypes.txt
 
-* items can have the max number of sockets at any ilvl.
+* items can have the max number of sockets at any ilvl (note: I don't think
+this works)
+* added item type for stat increasing items (elixer and book of skill)
 
 ### MagicPrefixes.txt and MagicSuffixes.txt
 
@@ -66,6 +72,8 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 * mana potions restore 20/40/80/160/320 hp
 * super health and mana potions are sold by vendors in late Nightmare
 * rejuvenation potions are sold by vendors in late Hell
+* added Elixer, which gives 5 permanent attribute points when used
+* added Book of Skill, which gives 1 permanent skill point when used
 
 ### Missiles.txt
 
@@ -75,6 +83,10 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 * capped max resistances at 105% so a wand of lower resist will barely break
 a monster's immunities.
+
+### NPC.txt
+
+* increased max sell price to vendors in nightmare and hell difficulties
 
 ### Runes.txt
 
@@ -104,7 +116,7 @@ a monster's immunities.
 * runes drop uniformly among possible rune drops
 * The Countess drops 3 runes up to Sol/Um/Ber
 * Exceptional and Elite items drop more often
-* Blood Raven drops a bows
+* Blood Raven drops bows
 * Griswold drops class items
 * Smith drops weapons
 * Andariel drops up to 1/2/3 rings
@@ -207,8 +219,7 @@ a monster's immunities.
 ### Necromancer
 
 * Teeth can hit an enemy multiple times
-* Poison Dagger now launches a magical dagger leaving a trail of poison clouds
-* Poison Dagger gives passive bonus to knife AR and damage
+* Poison Dagger now launches a throwing knife with added poison damage
 * poison skills all give passive poison mastery and pierce
 
 ### Paladin
@@ -221,7 +232,7 @@ a monster's immunities.
 
 * Fire Mastery also gives passive fire pierce
 * Lightning Mastery also gives passive lightning pierce
-* Energy Shield now synergizes with itself instead of Telekinesis
+* Energy Shield's synergy now comes from energy shield's level (including bonuses) and is capped at 75%
 * Chain Lightning has higher base damage (similar base damage to lightning, but worse synergies)
 
 
