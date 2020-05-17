@@ -198,8 +198,8 @@ magic spear + jewel + rune 12 + perfect emerald -> safety weapon	1			100					4	s
 any weapon + scroll of identify -> normal, unsocketed, nonethereal weapon				100					2	weap	isc						usetype,nor,nos,noe		100																																																																																					0
 any armor + scroll of identify -> normal, unsocketed, nonethereal armor				100					2	armo	isc						usetype,nor,nos,noe		100																																																																																					0
 tsc + any socketed item -> unsocket item (keep gems)	1			100					2	any,sock	tsc						useitem,rem																													tsc																																																										0
-tbk + ibk -> Annihilus				100					2	tbk	ibk						Annihilus	100																																																																																						0
-tbk + ibk + Annihilus -> Hellfire Torch				100					3	Annihilus	tbk	ibk					Hellfire Torch	100																																																																																						0
+tbk + ibk -> Annihilus	1			100					2	tbk	ibk						Annihilus	100																																																																																						0
+tbk + ibk + Annihilus -> Hellfire Torch	1			100					3	Annihilus	tbk	ibk					Hellfire Torch	100																																																																																						0
 Eth(r05) + normal weapon -> r05 + ethereal weapon				100					2	weap,nor,nos	r05						usetype,eth,nor,nos		100																											r05																																																										0
 Eth(r05) + normal armor -> ethereal armor				100					2	armo,nor,nos	r05						usetype,eth,nor,nos		100																											r05																																																										0
 Normal weapon + 4 pgem -> 6 sockets				100					5	weap,nor,nos	hpot,qty=4						useitem				sock			6	6																																																																															0
@@ -251,3 +251,5 @@ Normal helm + 2 pgem -> 2 sockets				100					3	helm,nor,nos	hpot,qty=2						usei
 2 rune 30 -> rune 31				100					2	r31	tsc						r30																													r30																																																										0
 2 rune 31 -> rune 32				100					2	r32	tsc						r31																													r31																																																										0
 2 rune 32 -> rune 33				100					2	r33	tsc						r32																													r32																																																										0
+tome of town portal + hpot = stats potion	1			100					2	tbk	hpot						sp0																																																																																							0
+tome of town portal + mpot = skill book	1			100					2	tbk	mpot						sbk																																																																																							0
