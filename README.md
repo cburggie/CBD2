@@ -56,6 +56,9 @@ Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
 * rare affixes are more common
 * charges of amplify damage now appear
+* charges of relatively useless skills don't appear anymore
+* items with high ilvl won't get low level affixes as often
+* affixes roll best rng every time
 
 ### Misc.txt
 
@@ -94,7 +97,7 @@ a monster's immunities.
 
 ### States.txt
 
-* added passive states for updates skills
+* added passive states for updated skills
 
 ### TreasureClassEx.txt
 
@@ -112,7 +115,7 @@ a monster's immunities.
 * Izual drops 1/2/3 flawless gems
 * Hephasto drops armor
 * Nilathak drops up to 1/2/3 flawless skulls
-* keys and essences have 25% drop rate
+* keys and essences drop in Nightmare and Hell and have a 25% drop rate
 
 ### UniqueItems.txt
 
@@ -124,8 +127,8 @@ a monster's immunities.
 
 ### Runeword Preparation Recipes
 
-* remove sockets, ethereal, rarity: Token of Absolution (`ilvl = plvl`)
-* make plain item ethereal: Eth rune (`ilvl = plvl`)
+* remove sockets, ethereal, rarity: 3 jewels (`ilvl = plvl`)
+* make normal, unsocketed item ethereal: Eth rune (`ilvl = plvl`)
 * add 2 sockets: 2 Perfect Gems
 * add 3 sockets: 2 Perfect Gems + 1 Flawless Gem
 * add 4 sockets: 3 Perfect Gems
@@ -136,9 +139,10 @@ a monster's immunities.
 
 * magic staff of teleportation: magic staff + magic ring + tome of town portal
 
-### Charm Recipes
+### Jewelry Recipes
 
-* resistance small charm: small charm + 2 perfect ruby/sapphire/topaz/emerald
+* +resist element: small charm/ring/amulet + perfect ruby/sapphire/topaz/emerald
+* +resist all: small charm/ring/amulet + perfect Diamond + perfect amethyst
 * +1 skilltab grand charm: grand charm + unique ring + 1/2/3 flawless gems
 
 ### Upgrade Recipes
@@ -161,18 +165,16 @@ a monster's immunities.
 ### Utility Recipes
 
 * repair and recharge item: 1 Ral rune
-* unsocket item (keeping gems/jewels/runes): 1 Hel rune + 1 Scroll of Town Portal
+* unsocket item (keeping gems/jewels/runes): 1 Hel rune
 
 ### Annihilus and Hellfire Torch
 
-* Annihilus: 1 of each Key
-* Hellfire Torch: 1 Annihilus + 1 of each Essence
+* Annihilus: 1 of each Key (min plvl 70)
+* Hellfire Torch: 1 Annihilus + 1 of each Essence (min plvl 75)
 
 ### Misc. Recipes
 
-* +resist jewelry recipes don't need potions and `ilvl=plvl`
 * ring, amulet recycle recipes have `ilvl = plvl` (from `ilvl = 0.75*plvl`)
-
 
 ## Skill Changes
 
@@ -220,13 +222,10 @@ a monster's immunities.
 * Fire Mastery also gives passive fire pierce
 * Lightning Mastery also gives passive lightning pierce
 * Energy Shield now synergizes with itself instead of Telekinesis
-* Chain Lightning has higher base damage
+* Chain Lightning has higher base damage (similar base damage to lightning, but worse synergies)
 
 
 ## To Do
 
 * add class specific crafted item recipes for amulets and circlets (good +skills)
-* allow replay of cow level somehow (can be done with cairn stone missiles, but messy)
-
-
-
+* allow replay of cow level somehow (can be done with cairn stone missiles, but messy (note that cairn stone missiles to cow level will crash the game if used outside act 1))
