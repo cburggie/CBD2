@@ -253,3 +253,5 @@ Normal helm + 2 pgem -> 2 sockets				100					3	helm,nor,nos	hpot,qty=2						usei
 2 rune 32 -> rune 33				100					2	r33	tsc						r32																													r32																																																										0
 tome of town portal + hpot = stats potion	1			100					2	tbk	hpot						sp0																																																																																							0
 tome of town portal + mpot = skill book	1			100					2	tbk	mpot						sbk																																																																																							0
+stats potion	1			100					1	sp0							sp0																													sp0																																																										0
+stats potion	1			100					1	sbk							sbk																													sbk																																																										0
