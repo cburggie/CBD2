@@ -984,9 +984,9 @@ ROP (N)			1	1024				0	Diablo (N)	4	Annihilus	1																				0
 ROP (H)			-2	1024				0	Annihilus	1	Hellfire Torch	1																				0
 Countess Key N			1					3	pk1	1																						0
 Countess Key H			1					3	pk1	1																						0
-Countess			-3	883	883	883	1024	0	Runes 6	3																						0
-Countess (N)			-4	883	883	983	1024	0	Runes 11	3	Countess Key N	1																				0
-Countess (H)			-4	883	883	983	1024	0	Runes 15	3	Countess Key H	1																				0
+Countess			-3	883	883	883	1024	0	Runes 4	3																						0
+Countess (N)			-4	883	883	983	1024	0	Runes 8	3	Countess Key N	1																				0
+Countess (H)			-4	883	883	983	1024	0	Runes 13	3	Countess Key H	1																				0
 Uber Andariel			1	1024				0	dhn	1																						0
 Uber Duriel			1	1024				0	bey	1																						0
 Uber Izual			1	1024				0	mbr	1																						0

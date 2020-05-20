@@ -72,8 +72,8 @@ this works)
 * mana potions restore 20/40/80/160/320 hp
 * super health and mana potions are sold by vendors in late Nightmare
 * rejuvenation potions are sold by vendors in late Hell
-* added Elixer, which gives 5 permanent attribute points when used
-* added Book of Skill, which gives 1 permanent skill point when used
+* added Elixer, which gives permanent attribute points when used
+* added Book of Skill, which gives permanent skill points when used
 
 ### Missiles.txt
 
@@ -110,11 +110,12 @@ a monster's immunities.
 ### States.txt
 
 * added passive states for updated skills
+* delerium state now takes the form of a hellbovine (instead of a bone fetish)
 
 ### TreasureClassEx.txt
 
 * runes drop uniformly among possible rune drops
-* The Countess drops 3 runes up to Sol/Um/Ber
+* The Countess drops 3 runes up to Ral/Io/Lo
 * Exceptional and Elite items drop more often
 * Blood Raven drops bows
 * Griswold drops class items
