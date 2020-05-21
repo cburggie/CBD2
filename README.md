@@ -180,10 +180,11 @@ a monster's immunities.
 * repair and recharge item: 1 Ral rune
 * unsocket item (keeping gems/jewels/runes): 1 Hel rune
 
-### Annihilus and Hellfire Torch
+### Annihilus, Hellfire Torch, Elixer, and Book of Skill
 
 * Annihilus: 1 of each Key (min plvl 70)
 * Hellfire Torch: 1 Annihilus + 1 of each Essence (min plvl 75)
+* Elixer and Book of Skill: Mephisto's Brain + Diablo's Horn + Baal's Eye
 
 ### Misc. Recipes
 

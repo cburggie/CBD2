@@ -813,7 +813,7 @@ Meph Amu			1						Weapon 4A	1	amu	3																				0
 Meph Amu N			1						Weapon 4AN	1	Armor 4AN	1	amu	6																		0
 Meph Amu H			1						Weapon 4AH	2	Armor 4AH	1	amu	9																		0
 Meph Essence N			1						Meph Amu N	3	ceh	1																				0
-Meph Essence H			1						Meph Amu H	3	ceh	1																				0
+Meph Essence H			1						Meph Amu H	6	ceh	2	mbr	1																		0
 Mephisto			-6	983	983	983	1024		Weapon 4A	3	Armor 4A	2	Meph Amu	1																		0
 Mephisto (N)			-6	983	983	983	1024		Weapon 4AN	3	Armor 4AN	1	Meph Amu N	1	Meph Essence N	1																0
 Mephisto (H)			-6	983	983	983	1024		Weapon 4AH	2	Armor 4AH	1	Meph Amu H	2	Meph Essence H	1																0
@@ -821,7 +821,7 @@ Mephistoq			-6	993	993	1024	1024		Weapon 4A	3	Armor 4A	2	Meph Amu	1													
 Mephistoq (N)			-6	993	993	1024	1024		Weapon 4AN	3	Armor 4AN	1	Meph Amu N	1	Meph Essence N	1																0
 Mephistoq (H)			-6	993	993	1024	1024		Weapon 4AH	2	Armor 4AH	1	Meph Amu H	2	Meph Essence H	1																0
 Diablo Essence N			1						Weapon 5AN	3	bet	1																				0
-Diablo Essence H			1						Weapon 5AH	3	bet	1																				0
+Diablo Essence H			1						Weapon 5AH	6	bet	2	dhn	1																		0
 Diablo			-6	983	983	983	1024		Weapon 5A	4	Armor 5A	2																				0
 Diablo (N)			-6	983	983	983	1024		Weapon 5AN	3	Armor 5AN	2	Diablo Essence N	1																		0
 Diablo (H)			-6	983	983	983	1024		Weapon 5AH	3	Armor 5AH	2	Diablo Essence H	1																		0
@@ -860,7 +860,7 @@ Nihlathak			-6	900	900	972	1024		Weapon 5B	3	Armor 5B	2	Nih Skull	1													
 Nihlathak (N)			-6	900	900	972	1024		Weapon 5BN	2	Armor 5BN	1	Nih Skull N	1	Nih Key N	1																0
 Nihlathak (H)			-6	900	900	972	1024		Weapon 5BH	2	Armor 5BH	1	Nih Skull H	2	Nih Key H	1																0
 Baal Essence N			1						Weapon 1AH	3	fed	1																				0
-Baal Essence H			1						Weapon 5BH	3	fed	1																				0
+Baal Essence H			1						Weapon 5BH	6	fed	2	bey	1																		0
 Baal			-6	983	983	983	1024		Weapon 1AN	4	Armor 1AN	2																				0
 Baal (N)			-6	983	983	983	1024		Weapon 1AH	3	Armor 1AH	2	Baal Essence N	1																		0
 Baal (H)			-6	983	983	983	1024		Weapon 5BH	3	Armor 5BH	2	Baal Essence H	1																		0

@@ -156,7 +156,8 @@ Normal helm + 2 pgem -> 2 sockets	1			100					3	helm,nor,nos	gem4,qty=2						use
 Keys -> Annihilus	1			100	3	12	70		3	pk1	pk2	pk3					Annihilus	99																																																																																						0
 Essences + Annihilus -> Hellfire Torch	1			100	3	12	75		5	Annihilus	tes	ceh	bet	fed			Hellfire Torch	99																																																																																						0
 1 Wirt's leg + 1 identity book -> token of absolution	1			100					2	leg	ibk						toa																																																																																							0
-Token of Absolution				100					4	tes	ceh	bet	fed				toa																																																																																							0
+Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
+Elixer + Book of Skill	1			100					3	mbr	dhn	bey					sp0																													sbk																																																										0
 *****Crafting Recipes*****																																																																																																								0
 magic full helm + jewel + rune 06 + perfect sapphire -> hitpower helm	1			100					4	fhl,mag,upg	jew	r06	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	7	ac-miss			25	50																																																																					0
 magic chain boots + jewel + rune 08 + perfect sapphire -> hitpower boots	1			100					4	mbt,mag,upg	jew	r08	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	7	ac-hth			25	60																																																																					0
