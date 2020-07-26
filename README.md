@@ -1,5 +1,5 @@
 
-# DBD2 Mod Pack
+# CBD2 Mod Pack
 
 Accessable Diablo II end-game content in single player. Works in patch 1.14d
 
